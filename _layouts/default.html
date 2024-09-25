@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">  <!-- Ajoute cette ligne pour le style du thème -->
+    {{ content | markdownify }} <!-- Assure-toi que ce code est ici pour le contenu du thème -->
 </head>
 <body>
 
