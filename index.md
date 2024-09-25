@@ -3,6 +3,17 @@ layout: default
 title: Accueil
 ---
 
+<div class="banner">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <a href="{{ '/about.md' | relative_url }}">À propos</a>
+    <a href="{{ '/contact.md' | relative_url }}">Contact</a>
+    <!-- Ajoute d'autres liens ici -->
+</div>
+
+# Bienvenue sur le wiki de Minecraft
+
+
+
 # This is the main page.
 
 ## subtitle
