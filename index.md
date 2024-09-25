@@ -8,5 +8,5 @@
 - of things
 
 
-- [Page 1](page1.md)
-- [Page 2](page2.md)
+- [Presentation](page1.md)
+- [Mobs and Creatures](page2.md)
