@@ -1,3 +1,8 @@
+---
+layout: default
+title: Accueil
+---
+
 # This is the main page.
 
 ## subtitle
