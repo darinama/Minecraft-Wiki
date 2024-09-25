@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+</head>
+<body>
+
+<div class="navbar">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <a href="{{ '/about.md' | relative_url }}">À propos</a>
+    <a href="{{ '/contact.md' | relative_url }}">Contact</a>
+    <!-- Ajoute d'autres liens ici -->
+</div>
+
+<div class="content">
+    {{ content }} <!-- Le contenu de chaque page sera inséré ici -->
+</div>
+
+</body>
+</html>
