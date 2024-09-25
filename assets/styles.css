@@ -2,27 +2,20 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+.banner {
+    background-color: #4CAF50; /* Couleur de fond de la bannière */
+    padding: 10px 0; /* Espacement vertical */
+    text-align: center; /* Centre le texte */
 }
 
-.navbar {
-    background-color: #4CAF50; /* Couleur de fond de la barre de navigation */
-    overflow: hidden;
-    display: flex;
-    justify-content: center; /* Centre les éléments */
-}
-
-.navbar a {
-    display: block;
+.banner a {
     color: white; /* Couleur du texte */
-    text-align: center;
-    padding: 14px 16px;
     text-decoration: none; /* Supprime le soulignement */
+    margin: 0 15px; /* Espacement entre les liens */
+    padding: 10px; /* Espacement interne */
 }
 
-.navbar a:hover {
+.banner a:hover {
     background-color: #45a049; /* Couleur de fond au survol */
 }
+
