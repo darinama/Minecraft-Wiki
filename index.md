@@ -4,8 +4,8 @@ title: Accueil
 ---
 
 <div class="banner">
-    <a href="{{ '/' | relative_url }}">Accueil</a>
-    <a href="{{ '/about.md' | relative_url }}">À propos</a>
+    <a href="{{ '/' | relative_url }}">Main Page</a>
+    <a href="{{ '/about.md' | relative_url }}">About</a>
     <a href="{{ '/contact.md' | relative_url }}">Contact</a>
     <!-- Ajoute d'autres liens ici -->
 </div>
