@@ -1,6 +1,19 @@
-title: Minecraft Wiki
-description: Minecraft Wiki
+
+title: Minecraft-Wiki
+
+# Description de votre site
+description: Un court wiki sur la ville d'Albi, son histoire et son patrimoine.
+
+# Nom de l'auteur ou des contributeurs
+author: Votre Nom
+
+# URL de base de votre site
+url: "https://votrenom.github.io"  # Remplacez par l'URL de votre dépôt
+
+# Thème à utiliser (vous pouvez changer 'minima' par un autre thème)
 theme: hacker
-remote_theme: pages-themes/hacker@v0.2.0
+
+# Autres configurations facultatives
+# Permet d'utiliser des plugins, de définir des paramètres personnalisés, etc.
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed  # Permet d'ajouter un flux RSS
