@@ -10,8 +10,23 @@ title: Accueil
     <!-- Ajoute d'autres liens ici -->
 </div>
 
-# Bienvenue sur le wiki de Minecraft
+<div class="sidebar">
+    <a href="{{ '/' | relative_url }}">Accueil</a>
+    <a href="{{ '/about.md' | relative_url }}">À propos</a>
+    <a href="{{ '/contact.md' | relative_url }}">Contact</a>
+    <a href="{{ '/biomes.md' | relative_url }}">Biomes</a>
+    <a href="{{ '/crafting.md' | relative_url }}">Crafting</a>
+    <a href="{{ '/mobs.md' | relative_url }}">Mobs</a>
+    <!-- Ajoute d'autres liens ici -->
+</div>
 
+<div class="content">
+    <h1>Bienvenue sur le wiki de Minecraft</h1>
+
+    <p>Ce wiki est consacré à Minecraft, ses biomes, ses objets et ses mobs.</p>
+</div>
+
+# Bienvenue sur le wiki de Minecraft
 
 
 # This is the main page.
