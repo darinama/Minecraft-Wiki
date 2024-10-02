@@ -3,41 +3,33 @@ layout: default
 title: Accueil
 ---
 
+<!-- Main banner (navigation menu) -->
 <div class="banner">
-    <a href="{{ '/' | relative_url }}">Main Page</a>
-    <a href="{{ '/about.md' | relative_url }}">About</a>
-    <a href="{{ '/contact.md' | relative_url }}">Contact</a>
-    <!-- Ajoute d'autres liens ici -->
+    <ul class="menu">
+        <li><a href="{{ '/' | relative_url }}">Home</a></li>
+        <li><a href="{{ '/page1.md' | relative_url }}">Presentation</a></li>
+        <li><a href="{{ '/page2.md' | relative_url }}">Mobs and Creatures</a></li>
+        <li><a href="{{ '/page3.md' | relative_url }}">Goal of the game</a></li>
+        <li><a href="{{ '/page4.md' | relative_url }}">Biomes</a></li>
+        <li><a href="{{ '/page5.md' | relative_url }}">Usual Playthrough</a></li>
+        <li><a href="{{ '/page6.md' | relative_url }}">Building</a></li>
+        <li><a href="{{ '/page7.md' | relative_url }}">Crafting</a></li>
+    </ul>
 </div>
 
-<div class="sidebar">
-    <a href="{{ '/' | relative_url }}">Accueil</a>
-    <a href="{{ '/about.md' | relative_url }}">À propos</a>
-    <a href="{{ '/contact.md' | relative_url }}">Contact</a>
-    <a href="{{ '/biomes.md' | relative_url }}">Biomes</a>
-    <a href="{{ '/crafting.md' | relative_url }}">Crafting</a>
-    <a href="{{ '/mobs.md' | relative_url }}">Mobs</a>
-    <!-- Ajoute d'autres liens ici -->
-</div>
-
-<div class="content">
-    <h1>Bienvenue sur le wiki de Minecraft</h1>
-
-    <p>Ce wiki est consacré à Minecraft, ses biomes, ses objets et ses mobs.</p>
-</div>
-
+<!-- Main content in Markdown -->
 # Bienvenue sur le wiki de Minecraft
 
+Ce wiki est consacré à Minecraft, ses biomes, ses objets et ses mobs.
 
-# This is the main page.
+## This is the main page
 
-## subtitle
+### Subtitle
 
-### subsubtitle
+#### Subsubtitle
 
-- this is a list
-- of things
-
+- This is a list
+- Of things
 
 - [Presentation](page1.md)
 - [Mobs and Creatures](page2.md)
@@ -46,3 +38,4 @@ title: Accueil
 - [Usual Playthrough](page5.md)
 - [Building](page6.md)
 - [Crafting](page7.md)
+
