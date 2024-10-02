@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Mobs
+title: Mobs and Creatures
 ---
