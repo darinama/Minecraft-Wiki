@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Accueil
+title: Homepage
 ---
 
 <!-- Main content in Markdown -->
