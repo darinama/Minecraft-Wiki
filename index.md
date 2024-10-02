@@ -3,16 +3,6 @@ layout: default
 title: Accueil
 ---
 
-<!-- Main banner / menu -->
-<div class="banner">
-    <ul class="main-menu">
-        <li><a href="{{ '/' | relative_url }}">Main Page</a></li>
-        <li><a href="{{ '/about.md' | relative_url }}">About</a></li>
-        <li><a href="{{ '/contact.md' | relative_url }}">Contact</a></li>
-        <!-- Add more main navigation links here -->
-    </ul>
-</div>
-
 <!-- Sidebar -->
 <div class="sidebar">
     <h2>Wiki Navigation</h2>
