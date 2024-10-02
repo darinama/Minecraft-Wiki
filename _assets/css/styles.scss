@@ -1,28 +1,9 @@
-nav {
-    background-color: #000000; /* Fond noir pour la barre de navigation */
-    padding: 10px 0; /* Espace autour de la barre de navigation */
+@import "{{ site.theme }}";
+#header-color {
+     background-image:url("https://github.com/joker-project/clef-2023/blob/main/img/bodychange1.png");
+     background-color:#cd5c5c !important;
+   
 }
-
-nav ul {
-    list-style-type: none; /* Pas de puces */
-    margin: 0; /* Pas de marges */
-    padding: 0; /* Pas de rembourrage */
-    display: flex; /* Affichage en ligne */
-    justify-content: center; /* Centre les éléments */
-}
-
-nav ul li {
-    margin: 0 20px; /* Espace entre les liens */
-}
-
-nav ul li a {
-    text-decoration: none; /* Pas de soulignement */
-    color: #00ff00; /* Couleur verte pour les liens */
-    font-weight: bold; /* Gras pour les liens */
-    font-size: 1.2em; /* Taille du texte */
-    transition: color 0.3s; /* Transition pour le changement de couleur */
-}
-
-nav ul li a:hover {
-    color: #ffffff; /* Couleur blanche au survol */
+#banner { 
+    background: #fffacd;
 }
