@@ -1,1 +1,28 @@
 @import 'jekyll-theme-hacker';
+/* Navbar Styles */
+nav ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+  text-align: center; /* Center the navigation */
+}
+
+nav ul li {
+  display: inline; /* Display links inline */
+  margin-right: 20px; /* Add spacing between items */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white; /* White text */
+  font-size: 18px; /* Font size */
+  padding: 10px 15px; /* Padding around the links */
+  background-color: #4CAF50; /* Button-like background */
+  border-radius: 5px; /* Rounded corners */
+  transition: background-color 0.3s ease; /* Smooth hover */
+}
+
+nav ul li a:hover {
+  background-color: #45a049; /* Darker green on hover */
+  color: white;
+}
