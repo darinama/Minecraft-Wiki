@@ -18,31 +18,3 @@
 .banner a:hover {
     background-color: #45a049; /* Couleur de fond au survol */
 }
-
-.sidebar {
-    height: 100%; /* Prend toute la hauteur de la page */
-    width: 250px; /* Largeur du menu */
-    position: fixed; /* Reste en place lorsque l'on fait défiler la page */
-    z-index: 1; /* Met le menu au-dessus du contenu */
-    top: 0;
-    left: 0;
-    background-color: #333; /* Couleur de fond du menu */
-    padding-top: 20px; /* Espacement en haut */
-}
-
-.sidebar a {
-    padding: 10px 15px; /* Espacement interne */
-    text-decoration: none; /* Supprime le soulignement */
-    font-size: 18px; /* Taille de la police */
-    color: white; /* Couleur du texte */
-    display: block; /* Prend toute la largeur */
-}
-
-.sidebar a:hover {
-    background-color: #575757; /* Couleur de fond au survol */
-}
-
-.content {
-    margin-left: 260px; /* Ajoute un espace à gauche pour le contenu */
-    padding: 20px; /* Espacement autour du contenu */
-}
