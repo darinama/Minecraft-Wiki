@@ -7,32 +7,3 @@
     padding: 10px 0; /* Espacement vertical */
     text-align: center; /* Centre le texte */
 }
-/* Main menu (banner) styles */
-.banner {
-    background-color: #222; /* Dark background to match Hacker theme */
-    padding: 10px;
-    text-align: center;
-}
-
-.banner .main-menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-.banner .main-menu li {
-    display: inline;
-    margin-right: 15px;
-}
-
-.banner .main-menu li a {
-    text-decoration: none;
-    color: #00ff00; /* Hacker theme green text */
-    font-size: 18px;
-}
-
-.banner .main-menu li a:hover {
-    text-decoration: underline;
-    color: #ff0000; /* Red on hover to match the hacker vibe */
-}
