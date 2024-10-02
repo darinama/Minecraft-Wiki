@@ -1,7 +1,9 @@
-- [Presentation](page1.md)
-- [Mobs and Creatures](page2.md)
-- [Goal of the game](page3.md)
-- [Biomes](page4.md)
-- [Usual Playthrough](page5.md)
-- [Building](page6.md)
-- [Crafting](page7.md)
+<ul>
+    <li><a href="page1.md">Présentation</a></li>
+    <li><a href="page2.md">Mobs and Creatures</a></li>
+    <li><a href="page3.md">Goal of the game</a></li>
+    <li><a href="page4.md">Biomes</a></li>
+    <li><a href="page5.md">Usual Playthrough</a></li>
+    <li><a href="page6.md">Building</a></li>
+    <li><a href="page7.md">Crafting</a></li>
+</ul>
