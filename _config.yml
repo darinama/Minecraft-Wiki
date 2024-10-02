@@ -1,4 +1,6 @@
 title: Minecraft Wiki
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
 css: 
   - assets/css/styles.scss
