@@ -1,1 +1,1 @@
-[Homepage](index.md) - [Mobs and Creatures](page2.md) - [Biomes](page4.md) - [Building](page6.md) - [Crafting](page7.md)
+[Homepage](index.md) - [Mobs](mobs.md) - [Biomes](page4.md) - [Building](page6.md) - [Crafting](page7.md)
