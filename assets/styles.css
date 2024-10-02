@@ -1,12 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
-
-<link rel="stylesheet" href="{{ '/assets/theme-styles.css' | relative_url }}"> <!-- Hacker theme CSS -->
-<link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}"> <!-- Your custom styles -->
-
-/* Style for the horizontal banner at the top */
+/* Ensure your CSS file includes this style */
 .banner {
     background-color: #4CAF50; /* Green background for the banner */
     padding: 15px 0; /* Vertical padding */
@@ -14,21 +6,18 @@
     width: 100%; /* Full width banner */
 }
 
-/* Style for the horizontal menu inside the banner */
 .banner .menu {
     list-style-type: none; /* Remove bullets from list */
     margin: 0;
     padding: 0;
-    display: inline-block;
+    display: inline-block; /* Align menu items inline */
 }
 
-/* Each item in the menu */
 .banner .menu li {
     display: inline; /* Make menu items display horizontally */
     margin-right: 20px; /* Space between items */
 }
 
-/* Style for the links */
 .banner .menu li a {
     text-decoration: none;
     color: white; /* White text color */
@@ -38,7 +27,6 @@
     transition: background-color 0.3s ease; /* Smooth hover effect */
 }
 
-/* Change link color on hover */
 .banner .menu li a:hover {
     background-color: #45a049; /* Darker green on hover */
     color: white;
