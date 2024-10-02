@@ -1,0 +1,44 @@
+---
+---
+
+@import 'jekyll-theme-hacker';
+
+/* Style de la bannière de navigation */
+header {
+    background-color: #000000; /* Fond noir */
+    width: 100%;
+    position: fixed; /* La navbar reste en haut même lors du défilement */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Pour s'assurer que la navbar est toujours au-dessus */
+    padding: 10px 0;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centre les éléments de la navbar */
+}
+
+header ul li {
+    margin: 0 20px; /* Espace entre les liens */
+}
+
+header ul li a {
+    text-decoration: none;
+    color: #00ff00; /* Vert néon pour le style hacker */
+    font-weight: bold;
+    font-size: 1.2em; /* Taille du texte pour un look de bannière */
+    transition: color 0.3s;
+}
+
+header ul li a:hover {
+    color: #ffffff; /* Change en blanc lors du survol */
+}
+
+/* Espace en haut pour ne pas que la navbar cache le contenu */
+main {
+    margin-top: 60px; /* Ajuste pour laisser de la place à la navbar fixe */
+}
