@@ -1,1 +1,2 @@
-Mobs and Creatures
+layout: default
+title: Mobs
