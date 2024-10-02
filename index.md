@@ -2,6 +2,8 @@
 layout: default
 title: Homepage
 ---
+<!-- Inclure la barre de navigation -->
+{% include navbar.md %}
 
 # Bienvenue sur le wiki de Minecraft
 
