@@ -1,0 +1,30 @@
+.navigation-banner {
+    background-color: #1c1c1c; /* Couleur sombre pour s'accorder avec le thème */
+    color: #00ff00; /* Vert fluo, typique des écrans de terminal */
+    padding: 10px;
+    width: 100%; /* Prend toute la largeur */
+    position: relative; /* Positionne le banner */
+    font-family: 'Courier New', Courier, monospace; /* Police monospace */
+}
+
+.navigation-banner ul {
+    list-style: none; /* Enlève les puces */
+    padding: 0;
+    margin: 0; /* Enlève la marge */
+    display: flex; /* Affiche les éléments en ligne */
+    justify-content: center; /* Centre les éléments */
+}
+
+.navigation-banner li {
+    margin: 0 15px; /* Espacement entre les éléments */
+}
+
+.navigation-banner a {
+    color: #00ff00; /* Couleur des liens */
+    text-decoration: none; /* Enlève le soulignement */
+    transition: color 0.3s; /* Transition pour un effet au survol */
+}
+
+.navigation-banner a:hover {
+    color: #ff0000; /* Change la couleur au survol */
+}
