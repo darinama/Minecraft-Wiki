@@ -1,5 +1,1 @@
-- [Presentation](page1.md) - [Mobs and Creatures](page2.md)
-- [Biomes](page4.md)
-- [Usual Playthrough](page5.md)
-- [Building](page6.md)
-- [Crafting](page7.md)
+[Homepage](index.md) - [Mobs and Creatures](page2.md) - [Biomes](page4.md) - [Building](page6.md) - [Crafting](page7.md)
