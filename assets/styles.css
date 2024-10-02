@@ -1,9 +1,36 @@
----
----
-
-@import "{{ site.theme }}";
+/* Style for the navigation banner at the top */
 .banner {
-    background-color: #4CAF50; /* Couleur de fond de la bannière */
-    padding: 10px 0; /* Espacement vertical */
-    text-align: center; /* Centre le texte */
+    background-color: #4CAF50; /* Green background for the banner */
+    padding: 10px 0; /* Vertical padding */
+    text-align: center; /* Center the content */
+}
+
+/* Style for the horizontal menu inside the banner */
+.banner .menu {
+    list-style-type: none; /* Remove bullets from list */
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Each item in the menu */
+.banner .menu li {
+    display
+    inline; /* Make menu items display horizontally */
+    margin-right: 20px; /* Space between items */
+}
+
+/* Style for the links */
+.banner .menu li a {
+    text-decoration: none;
+    color: white; /* White text color */
+    font-size: 18px; /* Font size */
+    padding: 10px 20px; /* Padding for clickable area */
+    border-radius: 5px;
+}
+
+/* Change link color on hover */
+.banner .menu li a:hover {
+    background-color: #45a049; /* Darker green on hover */
+    color: white;
 }
