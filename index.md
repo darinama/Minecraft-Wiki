@@ -10,8 +10,6 @@ Ce wiki est consacré à Minecraft, ses biomes, ses objets et ses mobs.
 
 ## This is the main page
 
-### Subtitle
-
 #### Subsubtitle
 
 - This is a list
