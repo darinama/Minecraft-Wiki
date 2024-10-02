@@ -1,8 +1,4 @@
-@import "{{ site.theme }}";
-#header-color {
-     background-color:#cd5c5c !important;
-   
-}
-#banner { 
-    background: #fffacd;
-}
+theme: jekyll-theme-hacker
+title: Minecraft Wiki
+github:
+  is_project_page: false
