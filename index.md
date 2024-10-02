@@ -2,6 +2,8 @@
 layout: default
 title: Homepage
 ---
+{% include navbar.md %}
+
 # Bienvenue sur le wiki de Minecraft
 
 Ce wiki est consacré à Minecraft, ses biomes, ses objets et ses mobs.
