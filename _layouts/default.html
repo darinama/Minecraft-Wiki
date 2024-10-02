@@ -1,7 +1,6 @@
 ---
 #default.html layout
 ---
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -13,22 +12,9 @@
 
 {% seo %}
   </head>
+
   <body>
 
- <!-- Main banner (navigation menu) -->
-    <div class="banner">
-        <ul class="menu">
-            <li><a href="{{ '/' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/page1.md' | relative_url }}">Presentation</a></li>
-            <li><a href="{{ '/page2.md' | relative_url }}">Mobs and Creatures</a></li>
-            <li><a href="{{ '/page3.md' | relative_url }}">Goal of the game</a></li>
-            <li><a href="{{ '/page4.md' | relative_url }}">Biomes</a></li>
-            <li><a href="{{ '/page5.md' | relative_url }}">Usual Playthrough</a></li>
-            <li><a href="{{ '/page6.md' | relative_url }}">Building</a></li>
-            <li><a href="{{ '/page7.md' | relative_url }}">Crafting</a></li>
-        </ul>
-    </div>
-      
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
@@ -52,4 +38,41 @@
       </section>
     </div>
   </body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}"> <!-- If the theme uses a specific CSS file -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}"> <!-- Custom styles -->
+</head>
+<body>
+
+    <!-- Main banner (navigation menu) -->
+    <div class="banner">
+        <ul class="menu">
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/page1.md' | relative_url }}">Presentation</a></li>
+            <li><a href="{{ '/page2.md' | relative_url }}">Mobs and Creatures</a></li>
+            <li><a href="{{ '/page3.md' | relative_url }}">Goal of the game</a></li>
+            <li><a href="{{ '/page4.md' | relative_url }}">Biomes</a></li>
+            <li><a href="{{ '/page5.md' | relative_url }}">Usual Playthrough</a></li>
+            <li><a href="{{ '/page6.md' | relative_url }}">Building</a></li>
+            <li><a href="{{ '/page7.md' | relative_url }}">Crafting</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        {{ content }}
+    </div>
+
+    <footer>
+        <p>© 2024 Minecraft Wiki</p>
+    </footer>
+
+</body>
 </html>
