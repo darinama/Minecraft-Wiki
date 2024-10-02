@@ -1,10 +1,15 @@
+---
+# default.html layout
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}"> <!-- If the theme uses a specific CSS file -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}"> <!-- Custom styles -->
 </head>
 <body>
 
@@ -22,18 +27,13 @@
         </ul>
     </div>
 
-    <!-- Main content area -->
     <div class="content">
         {{ content }}
     </div>
 
-    <!-- Footer (Optional) -->
     <footer>
         <p>© 2024 Minecraft Wiki</p>
     </footer>
 
 </body>
 </html>
-<head>
-    <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
-</head>
