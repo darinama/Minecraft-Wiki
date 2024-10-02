@@ -7,14 +7,3 @@
     padding: 10px 0; /* Espacement vertical */
     text-align: center; /* Centre le texte */
 }
-
-.banner a {
-    color: white; /* Couleur du texte */
-    text-decoration: none; /* Supprime le soulignement */
-    margin: 0 15px; /* Espacement entre les liens */
-    padding: 10px; /* Espacement interne */
-}
-
-.banner a:hover {
-    background-color: #45a049; /* Couleur de fond au survol */
-}
