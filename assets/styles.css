@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/theme-styles.css' | relative_url }}"> <!-- Hacker theme CSS -->
+<link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}"> <!-- Your custom styles -->
 
 /* Style for the horizontal banner at the top */
 .banner {
