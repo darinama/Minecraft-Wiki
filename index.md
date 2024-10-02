@@ -3,20 +3,6 @@ layout: default
 title: Accueil
 ---
 
-<!-- Main banner (navigation menu) -->
-<div class="banner">
-    <ul class="menu">
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/page1.md' | relative_url }}">Presentation</a></li>
-        <li><a href="{{ '/page2.md' | relative_url }}">Mobs and Creatures</a></li>
-        <li><a href="{{ '/page3.md' | relative_url }}">Goal of the game</a></li>
-        <li><a href="{{ '/page4.md' | relative_url }}">Biomes</a></li>
-        <li><a href="{{ '/page5.md' | relative_url }}">Usual Playthrough</a></li>
-        <li><a href="{{ '/page6.md' | relative_url }}">Building</a></li>
-        <li><a href="{{ '/page7.md' | relative_url }}">Crafting</a></li>
-    </ul>
-</div>
-
 <!-- Main content in Markdown -->
 # Bienvenue sur le wiki de Minecraft
 
