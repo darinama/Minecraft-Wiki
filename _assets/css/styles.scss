@@ -3,42 +3,36 @@
 
 @import 'jekyll-theme-hacker';
 
-/* Style de la bannière de navigation */
-header {
-    background-color: #000000; /* Fond noir */
-    width: 100%;
-    position: fixed; /* La navbar reste en haut même lors du défilement */
-    top: 0;
-    left: 0;
-    z-index: 1000; /* Pour s'assurer que la navbar est toujours au-dessus */
-    padding: 10px 0;
+nav {
+    background-color: #000000; /* Fond noir pour la barre de navigation */
+    padding: 10px 0; /* Espace autour de la barre de navigation */
 }
 
-header ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center; /* Centre les éléments de la navbar */
+nav ul {
+    list-style-type: none; /* Pas de puces */
+    margin: 0; /* Pas de marges */
+    padding: 0; /* Pas de rembourrage */
+    display: flex; /* Affichage en ligne */
+    justify-content: center; /* Centre les éléments */
 }
 
-header ul li {
+nav ul li {
     margin: 0 20px; /* Espace entre les liens */
 }
 
-header ul li a {
-    text-decoration: none;
-    color: #00ff00; /* Vert néon pour le style hacker */
-    font-weight: bold;
-    font-size: 1.2em; /* Taille du texte pour un look de bannière */
-    transition: color 0.3s;
+nav ul li a {
+    text-decoration: none; /* Pas de soulignement */
+    color: #00ff00; /* Couleur verte pour les liens */
+    font-weight: bold; /* Gras pour les liens */
+    font-size: 1.2em; /* Taille du texte */
+    transition: color 0.3s; /* Transition pour le changement de couleur */
 }
 
-header ul li a:hover {
-    color: #ffffff; /* Change en blanc lors du survol */
+nav ul li a:hover {
+    color: #ffffff; /* Couleur blanche au survol */
 }
 
-/* Espace en haut pour ne pas que la navbar cache le contenu */
-main {
+#main_content {
     margin-top: 60px; /* Ajuste pour laisser de la place à la navbar fixe */
 }
+
