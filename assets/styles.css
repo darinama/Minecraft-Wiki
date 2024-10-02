@@ -1,37 +1,37 @@
-/* Style for the full-width banner */
+/* Style pour la bannière horizontale */
 .banner {
-    background-color: #4CAF50; /* Change to your preferred background color */
-    padding: 15px 0; /* Vertical padding */
-    text-align: center; /* Center the content */
-    width: 100%; /* Full width banner */
+    background-color: #4CAF50; /* Couleur de fond verte */
+    padding: 15px 0; /* Espacement vertical */
+    text-align: center; /* Centrer le contenu */
+    width: 100%; /* Bannière pleine largeur */
 }
 
-/* Style for the horizontal menu inside the banner */
+/* Style pour le menu horizontal à l'intérieur de la bannière */
 .banner .menu {
-    list-style-type: none; /* Remove bullets from list */
+    list-style-type: none; /* Supprimer les puces de la liste */
     margin: 0;
     padding: 0;
-    display: inline-block;
+    display: inline-block; /* Afficher le menu horizontalement */
 }
 
-/* Each item in the menu */
+/* Chaque élément du menu */
 .banner .menu li {
-    display: inline; /* Make menu items display horizontally */
-    margin-right: 20px; /* Space between items */
+    display: inline; /* Faire en sorte que les éléments du menu soient affichés horizontalement */
+    margin-right: 20px; /* Espacement entre les éléments */
 }
 
-/* Style for the links */
+/* Style pour les liens */
 .banner .menu li a {
     text-decoration: none;
-    color: white; /* White text color */
-    font-size: 18px; /* Font size */
-    padding: 10px 15px; /* Padding for clickable area */
+    color: white; /* Couleur du texte blanc */
+    font-size: 18px; /* Taille de la police */
+    padding: 10px 15px; /* Espacement pour la zone cliquable */
     border-radius: 5px;
-    transition: background-color 0.3s ease; /* Smooth hover effect */
+    transition: background-color 0.3s ease; /* Effet de survol fluide */
 }
 
-/* Change link color on hover */
+/* Changer la couleur des liens au survol */
 .banner .menu li a:hover {
-    background-color: #45a049; /* Darker green on hover */
-    color: white;
+    background-color: #45a049; /* Couleur plus foncée au survol */
+    color: white; /* Couleur du texte blanc au survol */
 }
