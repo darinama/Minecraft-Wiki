@@ -3,6 +3,8 @@ layout: default
 title: Homepage
 ---
 
+{% include nav.html %}
+
 <!-- Main content in Markdown -->
 # Bienvenue sur le wiki de Minecraft
 
