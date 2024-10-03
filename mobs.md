@@ -11,6 +11,11 @@ Passive mobs don't attack the player, even if the player attacks them.
 The most common passive mobs that a player will encounter are:
 
 - Pigs
+<p align="left">
+  <img src="./img/pig.png" width="120" height="142">
+</p>
+
+  
 - Cows
 - Sheep
 - Horses
