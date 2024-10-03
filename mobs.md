@@ -2,6 +2,7 @@
 layout: default
 title: Mobs
 ---
+{% include navbar.md %}
 
 This page is about mobs
 
