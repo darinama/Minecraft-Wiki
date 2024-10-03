@@ -2,7 +2,9 @@
 layout: default
 title: Mobs
 ---
+<p align="center">
 {% include navbar.md %}
+</p>
 
 This page is about mobs
 
