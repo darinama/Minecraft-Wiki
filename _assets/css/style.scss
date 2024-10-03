@@ -4,3 +4,13 @@
   display: flex;
   justify-content: center;
 }
+/* Additional styling for the navbar if needed */
+.navbar a {
+  margin: 0 15px; /* Adjusts space between links */
+  text-decoration: none;
+  color: #fff; /* Customize the link color */
+}
+
+.navbar a:hover {
+  color: #ddd; /* Hover effect */
+}
