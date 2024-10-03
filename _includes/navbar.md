@@ -1,3 +1,7 @@
 <div align="center">
-[Homepage](index)  [Mobs](mobs)  [Biomes](page4.md)  [Building](page6.md)  [Crafting](page7.md)
+  <a href="index.html">Homepage</a> &nbsp; 
+  <a href="mobs.html">Mobs</a> &nbsp; 
+  <a href="page4.html">Biomes</a> &nbsp; 
+  <a href="page6.html">Building</a> &nbsp; 
+  <a href="page7.html">Crafting</a>
 </div>
