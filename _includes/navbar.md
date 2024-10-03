@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border: 2px solid black; padding: 10px; display: inline-block;">
   <a href="index.html">Homepage</a> &nbsp; 
   <a href="mobs.html">Mobs</a> &nbsp; 
   <a href="page4.html">Biomes</a> &nbsp; 
