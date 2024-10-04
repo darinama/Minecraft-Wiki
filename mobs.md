@@ -19,7 +19,8 @@ The most common passive mobs that a player will encounter are:
 </p>
 
 Pigs are common mobs that spawn in plains, forests, and taiga biomes.
-Pigs drop raw porkchop which can be cooked. Pigs can be bred using carrots, potatoes, or beetroots.
+Pigs can be bred using carrots, potatoes, or beetroots.
+Pigs drop raw porkchop which can be cooked.
 
 ## Cows
 <p align="left">
@@ -27,7 +28,8 @@ Pigs drop raw porkchop which can be cooked. Pigs can be bred using carrots, pota
 </p>
 
 Cows are common mobs that spawn in plains and forests.
-Cows drop raw beef, which can be cooked, and sometimes leather, which can be used to craft armor or books. A cow can be milked using a bucket. Cows can be bred using wheat. 
+A cow can be milked using a bucket. Cows can be bred using wheat. 
+Cows drop raw beef, which can be cooked, and sometimes leather, which can be used to craft armor or books.
 
 ## Sheep
 <p align="left">
@@ -43,8 +45,9 @@ Sheep drop raw mutton, which can be cooked, and wool. Wool can be obtained witho
 </p>
 
 Horses are common mobs that spawn in plains and savanna biomes.
-Horses drop leather and come in various colors and patterns. Horses can be bred using golden apples or golden carrots.
+They come in various colors and patterns. Horses can be bred using golden apples or golden carrots.
 A horse can be tamed and ridden by the player, to travel faster. A saddle is required for the horse to be controlled while riding. Saddles can be found in chests around the overworld or traded with villagers. An armor can also be equipped on the horse.
+Horses drop leather. 
 
 ## Chickens
 <p align="left">
@@ -52,7 +55,8 @@ A horse can be tamed and ridden by the player, to travel faster. A saddle is req
 </p>
 
 Chickens are common mobs that spawn in plains, forests, and swamps.
-Chickens drop raw chicken and feathers. They can lay eggs, which the player can use in recipes such as cakes, or thrown to potentially spawn a baby chick. Chickens can be bred using seeds.
+They can lay eggs, which the player can use in recipes such as cakes, or thrown to potentially spawn a baby chick. Chickens can be bred using seeds.
+Chickens drop raw chicken and feathers.
 
 Other passive mobs a player can encounter are cats, donkeys, squids, various types of fish or even parrots.
 
@@ -125,14 +129,36 @@ Players can barter with piglins by giving them gold ingots, for which in exchang
 
 # Hostile mobs
 Hostile mobs will attack the player even if they aren't provoked.
+Most hostile mobs spawn in dark areas such as caves, or during nighttime. Most of them die when the sun rises.
 
 The most common hostile mobs a player can encounter are:
 
 ## Zombies
+
+Zombies spawn in dark areas and during the night and die under the sunlight.
+They will attack the player and can also attack villagers, turning them in zombie villagers.
+They drop rotten flesh which can be eaten by the player but might poison them.
+
 ## Creepers
+
+Creepers spawn in dark areas and during the night but don't die during daylight.
+They are stealthy and explode near the player, dealing a lot of damage. They can be killed easily from a distance, or if the player has a cat, it will push them away.
+Creepers drop gunpowder, which can be used to craft TNT and fireworks.
+
 ## Skeletons
-## Witches
-## Pillagers
+
+Skeletons spawn in dark areas and during the night and die under the sunlight.
+They are equipped with a bow and shoot arrows at the player, which makes them particularly dangerous.
+Skeletons drop arrows and bones, which can be used to tame wolves.
+
+Other common hostile mobs are witchers, pillagers...
+
 ## The Ender Dragon
 
-Most of them spawn during nighttime and die if they are exposed to sunlight.
+The Ender Dragon spawns in the End dimension.
+It isn't a common hostile mob since there is only one, and represents the "final boss".
+It is a very powerful flying creature that attacks the player with fireballs.
+The Ender Dragon drops a large amount of XP, and a dragon egg, which is a decoration item.
+If you want to defeat the Ender Dragon, there is a guide at ...
+
+
