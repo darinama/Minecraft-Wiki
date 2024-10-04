@@ -136,7 +136,7 @@ The most common hostile mobs a player can encounter are:
 ## Zombies
 
 Zombies spawn in dark areas and during the night and die under the sunlight.
-They will attack the player and can also attack villagers, turning them in zombie villagers.
+They will attack the player and can also attack villagers, turning them into zombie villagers.
 They drop rotten flesh which can be eaten by the player but might poison them.
 
 ## Creepers
@@ -151,7 +151,7 @@ Skeletons spawn in dark areas and during the night and die under the sunlight.
 They are equipped with a bow and shoot arrows at the player, which makes them particularly dangerous.
 Skeletons drop arrows and bones, which can be used to tame wolves.
 
-Other common hostile mobs are witchers, pillagers...
+Other common hostile mobs are drowned, which are zombies who spawn underwater, witches or pillagers.
 
 ## The Ender Dragon
 
