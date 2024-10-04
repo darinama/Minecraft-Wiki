@@ -2,6 +2,6 @@
   <a href="index.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Homepage</a>
   <a href="mobs.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Mobs</a>
   <a href="dimensions-biomes.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Dimensions and Biomes</a>
-  <a href="page6.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Building</a>
+  <a href="resources.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Resources</a>
   <a href="page7.html" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 24px;">Crafting</a>
 </div>
