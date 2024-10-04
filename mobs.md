@@ -6,7 +6,7 @@ title: Mobs
 
 Mobs are living creatures who roam the world and with whom the player can impact.
 
-There are three main types of mobs in Minecraft: passive mobs, neutral mobs and hostile mobs.
+There are three main types of mobs in Minecraft: passive mobs, neutral mobs, and hostile mobs.
 
 # Passive mobs
 Passive mobs don't attack the player, even if the player attacks them.
