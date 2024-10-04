@@ -15,32 +15,30 @@ The most common passive mobs that a player will encounter are:
 
 - Pigs
 <p align="left">
-  <img src="./img/pig.png" width="240" height="284">
+  <img src="./img/pig.png" width="180" height="213">
 </p>
 
 - Cows
-<p align="left">
-  <img src="./img/cow.png" width="120" height="142">
-</p>
+
 
 - Sheep
 <p align="left">
-  <img src="./img/sheep.png" width="120" height="142">
+  <img src="./img/sheep.png" width="180" height="213">
 </p>
 
 - Horses
 <p align="left">
-  <img src="./img/horse.png" width="120" height="142">
+  <img src="./img/horse.png" width="180" height="213">
 </p>
 
 - Chickens
 <p align="left">
-  <img src="./img/chicken.png" width="120" height="142">
+  <img src="./img/chicken.png" width="180" height="213">
 </p>
 
 - Villagers
 <p align="left">
-  <img src="./img/villager.png" width="240" height="482">
+  <img src="./img/villager.png" width="180" height="362">
 </p>
 
 
