@@ -52,7 +52,9 @@ In Minecraft, various types of villagers can be found in villages. They can have
 
 Their profession can be identified thanks to their specific clothing. A player can assign an unemployed villager to a profession by placing a job site block near them. For example, for a villager to become a librarian, a lectern needs to be placed near them.
 
-The player can breed villagers by feeding them bread, and the grown adult will automatically be an unemployed villager.
+The player can breed villagers by feeding them bread, and the grown adult will automatically be an unemployed villager. But each villager needs its own bed and food nearby.
+
+The player can trade with villagers using emeralds, and gain useful resources such as enchantment books, enchanted tools or armor, or rare resources.
 
 # Neutral mobs
 Neutral mobs won't attack the player but will fight back if they are attacked.
