@@ -19,7 +19,9 @@ The most common passive mobs that a player will encounter are:
 </p>
 
 - Cows
-
+<p align="left">
+  <img src="./img/cow.png" width="180" height="187">
+</p>
 
 - Sheep
 <p align="left">
@@ -28,7 +30,7 @@ The most common passive mobs that a player will encounter are:
 
 - Horses
 <p align="left">
-  <img src="./img/horse.png" width="180" height="213">
+  <img src="./img/horse.png" width="180" height="181">
 </p>
 
 - Chickens
