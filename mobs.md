@@ -74,7 +74,7 @@ Neutral mobs won't attack the player but will fight back if they are attacked.
 
 ## Bees
 <p align="left">
-  <img src="./img/bee.png" width="180" height="180">
+  <img src="./img/bee.png" width="200" height="200">
 </p>
 
 Bees spawn near flower-filled places.
@@ -82,7 +82,7 @@ They live in hives or nests and honey and honeycombs can be harvested using shea
 
 ## Spiders
 <p align="left">
-  <img src="./img/spider.png" width="180" height="140">
+  <img src="./img/spider.png" width="200" height="180">
 </p>
 
 Spiders spawn in dark places such as caves, or at night, which are the only times they are hostiles.
@@ -90,7 +90,7 @@ Spiders drop strings and spider eyes. Strings can be used to craft bows or fishi
 
 ## Wolves
 <p align="left">
-  <img src="./img/wolf.png" width="180" height="174">
+  <img src="./img/wolf.png" width="200" height="193">
 </p>
 
 Wolves spawn in forests.
@@ -98,7 +98,7 @@ Wolves can be tamed using bones and will follow the player, or be sat if the pla
 
 ## Iron Golems
 <p align="left">
-  <img src="./img/iron-golem.png" width="180" height="156">
+  <img src="./img/iron-golem.png" width="200" height="173">
 </p>
 
 Iron Golems spawn in villages.
@@ -107,7 +107,7 @@ Iron Golems drop iron.
 
 ## Enderman
 <p align="left">
-  <img src="./img/enderman.png" width="180" height="213">
+  <img src="./img/enderman.png" width="200" height="236">
 </p>
 
 Enderman are tall neutral mobs that spawn in most biomes, and the Nether but are especially present in the End dimension.
@@ -116,7 +116,7 @@ Endermen drop Ender pearls, which can be used to teleport or craft Eyes of Ender
 
 ## Piglins
 <p align="left">
-  <img src="./img/piglin.png" width="180" height="213">
+  <img src="./img/piglin.png" width="200" height="236">
 </p>
 
 Piglins spawn in the Nether dimension.
