@@ -18,12 +18,31 @@ The most common passive mobs that a player will encounter are:
   <img src="./img/pig.png" width="120" height="142">
 </p>
 
-  
 - Cows
+<p align="left">
+  <img src="./img/cow.png" width="120" height="142">
+</p>
+
 - Sheep
+<p align="left">
+  <img src="./img/sheep.png" width="120" height="142">
+</p>
+
 - Horses
+<p align="left">
+  <img src="./img/horse.png" width="120" height="142">
+</p>
+
 - Chickens
+<p align="left">
+  <img src="./img/chicken.png" width="120" height="142">
+</p>
+
 - Villagers
+<p align="left">
+  <img src="./img/villager.png" width="120" height="142">
+</p>
+
 
 They provide a source of food if the player kills them. They can be bred and help provide a stable source of food.
 
