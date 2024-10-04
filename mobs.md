@@ -98,7 +98,7 @@ Wolves can be tamed using bones and will follow the player, or be sat if the pla
 
 ## Iron Golems
 <p align="left">
-  <img src="./img/iron-golem.png" width="200" height="173">
+  <img src="./img/iron-golem.png" width="180" height="338">
 </p>
 
 Iron Golems spawn in villages.
