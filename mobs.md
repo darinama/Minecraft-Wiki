@@ -134,18 +134,27 @@ Most hostile mobs spawn in dark areas such as caves, or during nighttime. Most o
 The most common hostile mobs a player can encounter are:
 
 ## Zombies
+<p align="left">
+  <img src="./img/zombie.png" width="150" height="250">
+</p>
 
 Zombies spawn in dark areas and during the night and die under the sunlight.
 They will attack the player and can also attack villagers, turning them into zombie villagers.
 They drop rotten flesh which can be eaten by the player but might poison them.
 
 ## Creepers
+<p align="left">
+  <img src="./img/creeper.png" width="130" height="264">
+</p>
 
 Creepers spawn in dark areas and during the night but don't die during daylight.
 They are stealthy and explode near the player, dealing a lot of damage. They can be killed easily from a distance, or if the player has a cat, it will push them away.
 Creepers drop gunpowder, which can be used to craft TNT and fireworks.
 
 ## Skeletons
+<p align="left">
+  <img src="./img/skeleton.png" width="150" height="276">
+</p>
 
 Skeletons spawn in dark areas and during the night and die under the sunlight.
 They are equipped with a bow and shoot arrows at the player, which makes them particularly dangerous.
@@ -154,6 +163,9 @@ Skeletons drop arrows and bones, which can be used to tame wolves.
 Other common hostile mobs are drowned, which are zombies who spawn underwater, witches or pillagers.
 
 ## The Ender Dragon
+<p align="left">
+  <img src="./img/ender-dragon.png" width="395" height="213">
+</p>
 
 The Ender Dragon spawns in the End dimension.
 It isn't a common hostile mob since there is only one, and represents the "final boss".
