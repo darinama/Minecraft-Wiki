@@ -38,15 +38,21 @@ The most common passive mobs that a player will encounter are:
   <img src="./img/chicken.png" width="180" height="213">
 </p>
 
+
+They provide a source of food if the player kills them. They can be bred and help provide a stable source of food.
+
+Other passive mobs a player can encounter are cats, donkeys, squids, various types of fish or even parrots.
+
 - Villagers
 <p align="left">
   <img src="./img/villager.png" width="180" height="362">
 </p>
 
+In Minecraft, various types of villagers can be found in villages. They can have different professions such as armorers, clerics, or shepherds but the most important and useful ones to the player are farmers, librarians, and blacksmiths. 
 
-They provide a source of food if the player kills them. They can be bred and help provide a stable source of food.
+Their profession can be identified thanks to their specific clothing. A player can assign an unemployed villager to a profession by placing a job site block near them. For example, for a villager to become a librarian, a lectern needs to be placed near them.
 
-Other passive mobs a player can encounter are cats, donkeys, squids, various types of fish or even parrots.
+The player can breed villagers by feeding them bread, and the grown adult will automatically be an unemployed villager.
 
 # Neutral mobs
 Neutral mobs won't attack the player but will fight back if they are attacked.
