@@ -10,36 +10,44 @@ There are three main types of mobs in Minecraft: passive mobs, neutral mobs and 
 
 # Passive mobs
 Passive mobs don't attack the player, even if the player attacks them.
-
+Animals will drop food, which the player can cook and eat.
 The most common passive mobs that a player will encounter are:
 
-- Pigs
+## Pigs
 <p align="left">
   <img src="./img/pig.png" width="180" height="213">
 </p>
 
-- Cows
+Pigs drop raw porkchop which can be cooked. Pigs can be bred using carrots, potatoes, or beetroots.
+
+## Cows
 <p align="left">
   <img src="./img/cow.png" width="180" height="187">
 </p>
 
-- Sheep
+Cows drop raw beef, which can be cooked, and sometimes leather, which can be used to craft armor or books. A cow can be milked using a bucket. Cows can be bred using wheat. 
+
+## Sheep
 <p align="left">
   <img src="./img/sheep.png" width="180" height="213">
 </p>
 
-- Horses
+Sheep drop raw mutton, which can be cooked, and wool. Wool can be obtained without harming a sheep using shears. Wool can be used to craft beds, carpets, and other decorative objects. Wool and sheep can be dyed in a large palette of colors but colored sheep can spawn, such as black sheep, brown sheep, or even pink sheep. Sheep can be bred using wheat.
+
+## Horses
 <p align="left">
   <img src="./img/horse.png" width="180" height="181">
 </p>
 
-- Chickens
+Horses drop leather. Horses come in various colors and patterns. Horses can be bred using golden apples or golden carrots.
+A horse can be tamed and ridden by the player, to travel faster. A saddle is required for the horse to be controlled while riding. Saddles can be found in chests around the overworld or traded with villagers. An armor can also be equipped on the horse.
+
+## Chickens
 <p align="left">
   <img src="./img/chicken.png" width="180" height="213">
 </p>
 
-
-They provide a source of food if the player kills them. They can be bred and help provide a stable source of food.
+Chickens drop raw chicken and feathers. They can lay eggs, which the player can use in recipes such as cakes, or thrown to potentially spawn a baby chick. Chickens can be bred using seeds.
 
 Other passive mobs a player can encounter are cats, donkeys, squids, various types of fish or even parrots.
 
