@@ -128,11 +128,11 @@ Hostile mobs will attack the player even if they aren't provoked.
 
 The most common hostile mobs a player can encounter are:
 
-- Zombies
-- Creepers
-- Skeletons
-- Witches
-- Pillagers
-- The Ender Dragon
+## Zombies
+## Creepers
+## Skeletons
+## Witches
+## Pillagers
+## The Ender Dragon
 
 Most of them spawn during nighttime and die if they are exposed to sunlight.
