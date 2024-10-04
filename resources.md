@@ -1,4 +1,9 @@
-Resources
+---
+layout: default
+title: Homepage
+---
+
+{% include navbar.md %}
 
 # Natural resources
 - wood
