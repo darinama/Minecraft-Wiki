@@ -15,7 +15,7 @@ The most common passive mobs that a player will encounter are:
 
 - Pigs
 <p align="left">
-  <img src="./img/pig.png" width="120" height="142">
+  <img src="./img/pig.png" width="240" height="284">
 </p>
 
 - Cows
@@ -40,7 +40,7 @@ The most common passive mobs that a player will encounter are:
 
 - Villagers
 <p align="left">
-  <img src="./img/villager.png" width="120" height="142">
+  <img src="./img/villager.png" width="240" height="482">
 </p>
 
 
