@@ -73,33 +73,51 @@ The player can trade with villagers using emeralds, and gain useful resources su
 Neutral mobs won't attack the player but will fight back if they are attacked.
 
 ## Bees
+<p align="left">
+  <img src="./img/bee.png" width="180" height="180">
+</p>
 
 Bees spawn near flower-filled places.
 They live in hives or nests and honey and honeycombs can be harvested using shears or bottles. Bees will attack the player if a bee is harmed, honey or honeycomb is collected without a campfire placed under, or if a nest is destroyed. Brees can be bred using flowers.
 
 ## Spiders
+<p align="left">
+  <img src="./img/spider.png" width="180" height="140">
+</p>
 
 Spiders spawn in dark places such as caves, or at night, which are the only times they are hostiles.
 Spiders drop strings and spider eyes. Strings can be used to craft bows or fishing rods. Otherwise, they will attack the player only if struck first.
 
 ## Wolves
+<p align="left">
+  <img src="./img/wolf.png" width="180" height="174">
+</p>
 
 Wolves spawn in forests.
 Wolves can be tamed using bones and will follow the player, or be sat if the player doesn't want to, and attack enemies. Tamed wolves can be bred using any type of meat.
 
 ## Iron Golems
+<p align="left">
+  <img src="./img/iron-golem.png" width="180" height="156">
+</p>
 
 Iron Golems spawn in villages.
 They protect villagers from hostile mobs, but can also be crafted by the player using iron blocks and a carved pumpkin.
 Iron Golems drop iron. 
 
-## Endermen
+## Enderman
+<p align="left">
+  <img src="./img/enderman.png" width="180" height="213">
+</p>
 
-Endermen are tall neutral mobs that spawn in most biomes, and the Nether but are especially present in the End dimension.
+Enderman are tall neutral mobs that spawn in most biomes, and the Nether but are especially present in the End dimension.
 They can teleport and pick up and put down blocks. They will only attack a player if a player looks at them or attacks them.
 Endermen drop Ender pearls, which can be used to teleport or craft Eyes of Ender which are used to locate an End portal and go in the End dimension.
 
 ## Piglins
+<p align="left">
+  <img src="./img/piglin.png" width="180" height="213">
+</p>
 
 Piglins spawn in the Nether dimension.
 They will attack the player if the player isn't equipped with a gold piece of armor.
