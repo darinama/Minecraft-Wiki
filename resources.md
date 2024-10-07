@@ -22,7 +22,19 @@ Wood is used to craft planks, a very basic item. Planks are used to craft a larg
 Wood can be burned in an oven to create charcoal.
   
 - stone
+
+Stone is another fundamental resource. It is the second resource a player usually looks for. It is easy to find it in abundance underground or in mountains and caves.
+Stone can be collected using a pickaxe, a wood pickaxe in the beginning. 
+Once mined, stone will turn into cobblestone and can be used to craft stone tools, furnaces, and building blocks.
+Stone is essential to building and can later be used to build advanced crafting stations.
+
 - sand
+
+Sand can be found in beaches, deserts and underwater.
+Sand is essential to obtain glass, which can be obtained by smelting sand in a furnace. Windows can be made out of glass. Therefore sand is essential to building.
+Sand can be used to craft TNT or to make traps.
+It is useful to clear out a water-filled or lava-filled space, since it is affected by gravity, unlike most Minecraft blocks. It means that if a sang block is placed against another block but with nothing beneath it, it will fall on top of the nearest block.
+
 - water
 
 
