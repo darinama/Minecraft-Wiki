@@ -9,3 +9,17 @@ title: Homepage
   <h1>Welcome to Minecraft's wiki!</h1>
 </div>
 This website is a beginner guide to the video game Minecraft.
+
+
+Basic vocabulary
+
+Mob
+Biome
+Craft
+Mine
+Jave
+Bedrock
+Chunk
+Loot
+Drop
+Stuff
