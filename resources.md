@@ -9,6 +9,9 @@ You will need to gather resources to survive and evolve in the game. Resources c
 
 # Natural resources
 ## Dirt
+<p align="left">
+  <img src="./img/resources/dirt.png" width="200" height="200">
+</p>
 
 Dirt is the most basic block in Minecraft, and it covers most biomes. As a new player, it is important to gather some dirt because it is always useful.
 Dirt is often used at the beginning of a save to create a temporary base to survive through the first few couple of nights.
@@ -16,6 +19,17 @@ Dirt cannot be used to craft tools, but it is essential to farming. Crops can on
 Moreover, having a stack of dirt blocks in your inventory might always be helpful, whether it is to build a temporary base, block yourself from dangerous mobs, or easily climb levels.
   
 ## Wood
+<p align="left">
+  <img src="./img/resources/oak.png" width="200" height="200">
+</p>
+
+<p align="left">
+  <img src="./img/resources/oak-log.png" width="200" height="200">
+</p>
+
+<p align="left">
+  <img src="./img/resources/oak-planks.png" width="200" height="200">
+</p>
 
 Wood is a fundamental resource in Minecraft. It is the first resource you should look for because it is essential to gather almost all of the other resources.
 Wood is obtained by chopping down a tree, which can be found almost everywhere. A tree can be chopped down barehand but it will be faster if the player uses an axe.
