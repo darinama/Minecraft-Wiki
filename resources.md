@@ -6,7 +6,7 @@ title: Homepage
 {% include navbar.md %}
 
 # Natural resources
-- dirt
+## Dirt
 
 Dirt is the most basic block in Minecraft, and it covers most biomes. As a new player, it is important to gather some dirt because it is always useful.
 Dirt is often used at the beginning of a save to create a temporary base to survive through the first few couple of nights.
@@ -86,20 +86,28 @@ Iron can also be used to craft rails and minecarts, to move mods or travel easie
 
 ## Gold
 
-Gold can be found all around the world, usually underground, or in caves. It can also be found in the Nether dimension. It can be mined with an iron pickaxe, or better.
-Raw gold will be obtained from a gold ore after mining, and can be turned into gold ingots if melted in a furnace.
-Gold is more rare than iron, but less useful since golds tools and armor have a lowest durability. However, gold ingots are used to trade with piglins in the Nether, to obtain crucial equipment useful in the Nether. Gold ingots can also be used to make golden apples and golden carrots.
+Gold can be found all around the world, usually underground, or in caves. It can also be found in the Nether dimension. It can be mined with an iron pickaxe or better.
+Raw gold will be obtained from a gold ore after mining and can be turned into gold ingots if melted in a furnace.
+Gold is rarer than iron, but less useful since gold tools and armor have the lowest durability. However, gold ingots are used to trade with piglins in the Nether, to obtain crucial equipment useful in the Nether. Gold ingots can also be used to make golden apples and golden carrots.
 It can be used in advanced crafting, which makes it almost useless to beginners. 
 
-## Diamond
-
-Diammonds can hardly be found all around the world, usually deep underground, or in caves. They can be mined with an iron pickaxe, or better.
+## Diamonds
+Diamonds can hardly be found all around the world, usually deep underground, or in caves. They can be mined with an iron pickaxe or better.
 Diamonds are considered a rare and very valuable resource.
-Diamonds can be used to craft the strongest tools and armor. Diamonds are also used to craft an enchatment table, which can enchant tools and armor, making them even more durable.
+Diamonds can be used to craft the strongest tools and armor. Diamonds are also used to craft an enchantment table, which can enchant tools and armor, making them even more durable.
 
-- lapis
-- redstone
-- emeralds
-- copper
-- diamonds
-- iron
+## Emeralds
+Emeralds can hardly be found all around the world, usually deep underground, or in caves. They can be mined with an iron pickaxe or better.
+Emeralds are also considered a rare and valuable resource.
+Emeralds are used to trade with villagers, to obtain rare items that cannot be found in the world.
+
+## Lapis lazuli
+Lapis can be found all around the world, usually underground, or in caves. It can be mined with an iron pickaxe or better.
+Lapis can be used in enchantment tables to enchant items and make them more durable or efficient. It can also be used as a dye.
+
+
+
+Copper and redstone are other ores that you can encounter.
+Redstone is used to create complex mechanisms such as mob farms and traps.
+Copper is a recent addition to the game, and can mostly be used to craft decorative objects.
+
