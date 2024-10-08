@@ -27,11 +27,18 @@ Moreover, having a stack of dirt blocks in your inventory might always be helpfu
   <img src="./img/resources/oak-planks.png" width="180" height="180">
 </p>
 
-
-
 Wood is a fundamental resource in Minecraft. It is the first resource you should look for because it is essential to gather almost all of the other resources.
-Wood is obtained by chopping down a tree, which can be found almost everywhere. A tree can be chopped down barehand but it will be faster if the player uses an axe.
+Wood is obtained by chopping down a tree, which can be found almost everywhere. A tree can be chopped down barehand but it will be faster if the player uses an axe. "Woodtype" log will be obtained, therefore if the tree is an oak, an oak log will be acquired.
 There are different types of trees, which can be found in different biomes. The most common are oak and birch trees.
+
+<p align="center">
+  <img src="./img/resources/birch.png" width="180" height="180">
+  <img src="./img/arrow.png" width="180" height="180">
+  <img src="./img/resources/birch-log.png" width="180" height="180">
+  <img src="./img/arrow.png" width="180" height="180">
+  <img src="./img/resources/birch-planks.png" width="180" height="180">
+</p>
+
 Wood is used to craft planks, a very basic item. Planks are used to craft a large number of things, including sticks which are used to craft all of the essential tools such as pickaxes, axes, hoes, swords, and shovels.
 Wood can be burned in an oven to create charcoal.
   
