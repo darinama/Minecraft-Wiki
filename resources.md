@@ -21,9 +21,9 @@ Moreover, having a stack of dirt blocks in your inventory might always be helpfu
 ## Wood
 <p align="center">
   <img src="./img/resources/oak.png" width="180" height="180">
-  <img src="./img/arrow.png" width="100" height="100" style="vertical-align: middle;">
+  <img src="./img/arrow2.png" width="180" height="180">
   <img src="./img/resources/oak-log.png" width="180" height="180">
-  <img src="./img/arrow.png" width="100" height="100" style="vertical-align: middle;">
+  <img src="./img/arrow2.png" width="180" height="180">
   <img src="./img/resources/oak-planks.png" width="180" height="180">
 </p>
 
