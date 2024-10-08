@@ -74,13 +74,25 @@ You can eat different types of food, some are more nutritious than others.
 ## Meat
 Meat is the easiest source of food to rely on when starting a save.
 It is obtained from animals: cows, sheep, pigs, and chickens.
+
+<p align="center">
+  <img src="./img/resources/raw-beef.png" width="170" height="170">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/steak.png" width="170" height="170">
+  <img src="./img/resources/raw-mutton.png" width="170" height="170">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/cooked-mutton.png" width="170" height="170">
+</p>
+
 Meat can be cooked in a furnace, which will restore more of the player's hunger, rather than eating raw meat. Eating raw meat can also cause food poisoning.
-Meat can be a reliable source of food if you decide to breed animals, kill them to get meat, cook it in order to eat it, and so on.
+Meat can be a reliable source of food if you decide to breed animals, kill them to get meat, cook it to eat it, and so on.
 
 Fish can also be cooked and eaten.
 
 ## Vegetables
-Vegetables are a reliable food source in Minecraft. Different types of vegetables can be found, such as wheat, carrots, potatoes or beetroots. They need to be planted in tilled dirt and will be ready to collect after a few in-game days. Carrots, potatoes, and beetroot seeds can be found in chests or villages around the world.
+Vegetables are a reliable food source in Minecraft. Different types of vegetables can be found, such as wheat, carrots, potatoes or beetroots. They need to be planted in tilled dirt and will be ready to collect after a few in-game days.
+
+
 Wheat is the easiest crop to farm since it has to be planted from wheat seeds, which can be obtained from grass. Wheat can be used to make bread, but also to breed animals such as cows and sheep. Carrots are used to breed pigs and wheat seeds to breed chickens.
 Potatoes can be cooked in a furnace, to restore more hunger.
 Vegetables and fruits don't restore hunger as much as meat but can be harvested in large quantities at once.
