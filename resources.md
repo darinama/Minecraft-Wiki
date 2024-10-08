@@ -131,6 +131,11 @@ Vegetables and fruits don't restore hunger as much as meat but can be harvested 
 # Minerals and Ores
 
 ## Coal
+<p align="center">
+  <img src="./img/resources/coal-ore.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/coal.png" width="180" height="180">
+</p>
 
 Coal can easily be found all around the world, usually underground, in mountains, or in caves. It can be mined with a wooden pickaxe or better.
 It is essential to be used as fuel for furnaces or to craft torches, to light up dark areas. 
