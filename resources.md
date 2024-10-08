@@ -9,7 +9,7 @@ You will need to gather resources to survive and evolve in the game. Resources c
 
 # Natural resources
 ## Dirt
-<p align="left">
+<p align="center">
   <img src="./img/resources/dirt.png" width="180" height="180">
 </p>
 
@@ -57,7 +57,7 @@ Once mined, stone will turn into cobblestone and can be used to craft stone tool
 Stone is essential to building and can later be used to build advanced crafting stations.
 
 ## Water
-<p align="left">
+<p align="center">
   <img src="./img/resources/water.png" width="180" height="180">
 </p>
 
@@ -103,18 +103,30 @@ Fish can also be cooked and eaten.
 ## Vegetables
 Vegetables are a reliable food source in Minecraft. Different types of vegetables can be found, such as wheat, carrots, potatoes or beetroots. They need to be planted in tilled dirt and will be ready to collect after a few in-game days.
 
+<p align="center">
+  <img src="./img/resources/wheat-seeds.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/wheat.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/bread.png" width="180" height="180">
+</p>
 
 Wheat is the easiest crop to farm since it has to be planted from wheat seeds, which can be obtained from grass. Wheat can be used to make bread, but also to breed animals such as cows and sheep. Carrots are used to breed pigs and wheat seeds to breed chickens.
 Potatoes can be cooked in a furnace, to restore more hunger.
-Vegetables and fruits don't restore hunger as much as meat but can be harvested in large quantities at once.
 
 ## Fruits
 
 Fruits are a less common source of food. Apples, melons, and sweet berries can be found around the world, but are harder to find than animals and vegetables. Apples can be found in chests or fall down from trees.
 They are usually used to restore minimal hunger.
 
-Carrots and apples can be turned into golden carrots and golden apples, to restore immediate health to the player.
+<p align="center">
+  <img src="./img/resources/apple.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/golden-apple.png" width="180" height="180">
+</p>
 
+Carrots and apples can be turned into golden carrots and golden apples, to restore immediate health to the player.
+Vegetables and fruits don't restore hunger as much as meat but can be harvested in large quantities at once.
 
 # Minerals and Ores
 
