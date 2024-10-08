@@ -15,7 +15,7 @@ The most common passive mobs that a player will encounter are:
 
 ## Pigs
 <p align="left">
-  <img src="./img/pig.png" width="180" height="213">
+  <img src="./img/mobs/pig.png" width="180" height="213">
 </p>
 
 Pigs are common mobs that spawn in plains, forests, and taiga biomes.
@@ -24,7 +24,7 @@ Pigs drop raw porkchop which can be cooked.
 
 ## Cows
 <p align="left">
-  <img src="./img/cow.png" width="180" height="187">
+  <img src="./img/mobs/cow.png" width="180" height="187">
 </p>
 
 Cows are common mobs that spawn in plains and forests.
@@ -33,7 +33,7 @@ Cows drop raw beef, which can be cooked, and sometimes leather, which can be use
 
 ## Sheep
 <p align="left">
-  <img src="./img/sheep.png" width="180" height="213">
+  <img src="./img/mobs/sheep.png" width="180" height="213">
 </p>
 
 Sheep are common mobs that spawn in plains, forests, taiga, and mountain biomes.
@@ -41,7 +41,7 @@ Sheep drop raw mutton, which can be cooked, and wool. Wool can be obtained witho
 
 ## Horses
 <p align="left">
-  <img src="./img/horse.png" width="180" height="181">
+  <img src="./img/mobs/horse.png" width="180" height="181">
 </p>
 
 Horses are common mobs that spawn in plains and savanna biomes.
@@ -51,7 +51,7 @@ Horses drop leather.
 
 ## Chickens
 <p align="left">
-  <img src="./img/chicken.png" width="180" height="213">
+  <img src="./img/mobs/chicken.png" width="180" height="213">
 </p>
 
 Chickens are common mobs that spawn in plains, forests, and swamps.
@@ -62,7 +62,7 @@ Other passive mobs a player can encounter are cats, donkeys, squids, various typ
 
 ## Villagers
 <p align="left">
-  <img src="./img/villager.png" width="180" height="362">
+  <img src="./img/mobs/villager.png" width="180" height="362">
 </p>
 
 In Minecraft, various types of villagers can be found in villages. They can have different professions such as armorers, clerics, or shepherds but the most important and useful ones to the player are farmers, librarians, and blacksmiths. 
@@ -78,7 +78,7 @@ Neutral mobs won't attack the player but will fight back if they are attacked.
 
 ## Bees
 <p align="left">
-  <img src="./img/bee.png" width="200" height="200">
+  <img src="./img/mobs/bee.png" width="200" height="200">
 </p>
 
 Bees spawn near flower-filled places.
@@ -86,7 +86,7 @@ They live in hives or nests and honey and honeycombs can be harvested using shea
 
 ## Spiders
 <p align="left">
-  <img src="./img/spider.png" width="200" height="180">
+  <img src="./img/mobs/spider.png" width="200" height="180">
 </p>
 
 Spiders spawn in dark places such as caves, or at night, which are the only times they are hostiles.
@@ -94,7 +94,7 @@ Spiders drop strings and spider eyes. Strings can be used to craft bows or fishi
 
 ## Wolves
 <p align="left">
-  <img src="./img/wolf.png" width="200" height="193">
+  <img src="./img/mobs/wolf.png" width="200" height="193">
 </p>
 
 Wolves spawn in forests.
@@ -102,7 +102,7 @@ Wolves can be tamed using bones and will follow the player, or be sat if the pla
 
 ## Iron Golems
 <p align="left">
-  <img src="./img/iron-golem.png" width="180" height="338">
+  <img src="./img/mobs/iron-golem.png" width="180" height="338">
 </p>
 
 Iron Golems spawn in villages.
@@ -111,7 +111,7 @@ Iron Golems drop iron.
 
 ## Enderman
 <p align="left">
-  <img src="./img/enderman.png" width="200" height="236">
+  <img src="./img/mobs/enderman.png" width="200" height="236">
 </p>
 
 Enderman are tall neutral mobs that spawn in most biomes, and the Nether but are especially present in the End dimension.
@@ -120,7 +120,7 @@ Endermen drop Ender pearls, which can be used to teleport or craft Eyes of Ender
 
 ## Piglins
 <p align="left">
-  <img src="./img/piglin.png" width="200" height="236">
+  <img src="./img/mobs/piglin.png" width="200" height="236">
 </p>
 
 Piglins spawn in the Nether dimension.
@@ -135,7 +135,7 @@ The most common hostile mobs a player can encounter are:
 
 ## Zombies
 <p align="left">
-  <img src="./img/zombie.png" width="150" height="250">
+  <img src="./img/mobs/zombie.png" width="150" height="250">
 </p>
 
 Zombies spawn in dark areas and during the night and die under the sunlight.
@@ -144,7 +144,7 @@ They drop rotten flesh which can be eaten by the player but might poison them.
 
 ## Creepers
 <p align="left">
-  <img src="./img/creeper.png" width="130" height="264">
+  <img src="./img/mobs/creeper.png" width="130" height="264">
 </p>
 
 Creepers spawn in dark areas and during the night but don't die during daylight.
@@ -153,7 +153,7 @@ Creepers drop gunpowder, which can be used to craft TNT and fireworks.
 
 ## Skeletons
 <p align="left">
-  <img src="./img/skeleton.png" width="150" height="276">
+  <img src="./img/mobs/skeleton.png" width="150" height="276">
 </p>
 
 Skeletons spawn in dark areas and during the night and die under the sunlight.
@@ -164,7 +164,7 @@ Other common hostile mobs are drowned, which are zombies who spawn underwater, w
 
 ## The Ender Dragon
 <p align="left">
-  <img src="./img/ender-dragon.png" width="395" height="213">
+  <img src="./img/mobs/ender-dragon.png" width="395" height="213">
 </p>
 
 The Ender Dragon spawns in the End dimension.
