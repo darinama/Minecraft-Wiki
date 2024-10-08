@@ -21,19 +21,19 @@ Moreover, having a stack of dirt blocks in your inventory might always be helpfu
 ## Wood
 <p align="center">
   <img src="./img/resources/oak.png" width="180" height="180">
-  <img src="./img/arrow.png" width="180" height="180">
+  <img src="./img/resources/birch.png" width="180" height="180">
+</p>
+Wood is a fundamental resource in Minecraft. It is the first resource you should look for because it is essential to gather almost all of the other resources.
+There are different types of trees, which can be found in different biomes. The most common are oak and birch trees.
+Wood is obtained by chopping down a tree, which can be found almost everywhere. A tree can be chopped down barehand but it will be faster if the player uses an axe. "Woodtype" log will be obtained, therefore if the tree is an oak, an oak log will be acquired.
+
+<p align="center">
   <img src="./img/resources/oak-log.png" width="180" height="180">
   <img src="./img/arrow.png" width="180" height="180">
   <img src="./img/resources/oak-planks.png" width="180" height="180">
 </p>
 
-Wood is a fundamental resource in Minecraft. It is the first resource you should look for because it is essential to gather almost all of the other resources.
-Wood is obtained by chopping down a tree, which can be found almost everywhere. A tree can be chopped down barehand but it will be faster if the player uses an axe. "Woodtype" log will be obtained, therefore if the tree is an oak, an oak log will be acquired.
-There are different types of trees, which can be found in different biomes. The most common are oak and birch trees.
-
 <p align="center">
-  <img src="./img/resources/birch.png" width="180" height="180">
-  <img src="./img/arrow.png" width="180" height="180">
   <img src="./img/resources/birch-log.png" width="180" height="180">
   <img src="./img/arrow.png" width="180" height="180">
   <img src="./img/resources/birch-planks.png" width="180" height="180">
@@ -46,10 +46,20 @@ Wood can be burned in an oven to create charcoal.
 
 Stone is another fundamental resource. It is the second resource a player usually looks for. It is easy to find in abundance underground or in mountains and caves.
 Stone can be collected using a pickaxe, a wood pickaxe in the beginning. 
+
+<p align="center">
+  <img src="./img/resources/stone.png" width="180" height="180">
+  <img src="./img/arrow.png" width="180" height="180">
+  <img src="./img/resources/cobblestone.png" width="180" height="180">
+</p>
+
 Once mined, stone will turn into cobblestone and can be used to craft stone tools, furnaces, and building blocks.
 Stone is essential to building and can later be used to build advanced crafting stations.
 
 ## Water
+<p align="left">
+  <img src="./img/resources/water.png" width="180" height="180">
+</p>
 
 Water can be found in rivers, oceans, lakes, underground, or small ponds. It can be collected using a bucket and used for a variety of things.
 Water is essential to farming since crops need water to grow. It also allows the player to fish and therefore collect food but different items as well.
