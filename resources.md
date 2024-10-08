@@ -141,8 +141,15 @@ Coal can easily be found all around the world, usually underground, in mountains
 It is essential to be used as fuel for furnaces or to craft torches, to light up dark areas. 
 
 ## Iron
+<p align="center">
+  <img src="./img/resources/iron-ore.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/raw-iron.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/iron-ingot.png" width="180" height="180">
+</p>
 
-Iron can be found all around the world, usually underground, in mountains, or in caves. It can be mined with a stone pickaxe or better.
+Iron can be found all around the world, usually underground, in mountains, or caves. It can be mined from an iron ore with a stone pickaxe or better.
 Raw iron will be obtained from an iron ore after mining and can be turned into iron ingots if melted in a furnace.
 Iron is used to craft various items, such as iron tools, armor, buckets, anvils, or even shields.
 Iron tools provide greater effectiveness than stone tools and iron armor provides great protection. 
@@ -150,7 +157,15 @@ Iron can also be used to craft rails and minecarts, to move mods or travel easie
 
 ## Gold
 
-Gold can be found all around the world, usually underground, or in caves. It can also be found in the Nether dimension. It can be mined with an iron pickaxe or better.
+<p align="center">
+  <img src="./img/resources/gold-ore.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/raw-gold.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/resources/gold-ingot.png" width="180" height="180">
+</p>
+
+Gold can be found all around the world, usually underground, or in caves. It can also be found in the Nether dimension. It can be mined from a gold ore with an iron pickaxe or better.
 Raw gold will be obtained from a gold ore after mining and can be turned into gold ingots if melted in a furnace.
 Gold is rarer than iron, but less useful since gold tools and armor have the lowest durability. However, gold ingots are used to trade with piglins in the Nether, to obtain crucial equipment useful in the Nether. Gold ingots can also be used to make golden apples and golden carrots.
 It can be used in advanced crafting, which makes it almost useless to beginners. 
