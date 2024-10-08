@@ -76,12 +76,23 @@ Meat is the easiest source of food to rely on when starting a save.
 It is obtained from animals: cows, sheep, pigs, and chickens.
 
 <p align="center">
-  <img src="./img/resources/raw-beef.png" width="170" height="170">
+  <img src="./img/resources/raw-beef.png" width="180" height="180">
   <img src="./img/arrow.png" width="150" height="150">
-  <img src="./img/resources/steak.png" width="170" height="170">
-  <img src="./img/resources/raw-mutton.png" width="170" height="170">
+  <img src="./img/resources/steak.png" width="180" height="180">
+</p>
+
+<p align="center">
+Beef
+</p>
+
+<p align="center">
+  <img src="./img/resources/raw-mutton.png" width="180" height="180">
   <img src="./img/arrow.png" width="150" height="150">
-  <img src="./img/resources/cooked-mutton.png" width="170" height="170">
+  <img src="./img/resources/cooked-mutton.png" width="180" height="180">
+</p>
+
+<p align="center">
+Mutton
 </p>
 
 Meat can be cooked in a furnace, which will restore more of the player's hunger, rather than eating raw meat. Eating raw meat can also cause food poisoning.
