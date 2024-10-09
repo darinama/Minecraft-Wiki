@@ -13,7 +13,7 @@ You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will ne
 
 <p align="center">
   <img src="./img/ender-dragon/ender-pearl.png" width="180" height="180">
-  <img src="./img/plus.png" width="150" height="150">
+  <img src="./img/plus.png" width="180" height="150">
   <img src="./img/ender-dragon/blaze-powder.png" width="180" height="180">
   <img src="./img/arrow.png" width="150" height="150">
   <img src="./img/ender-dragon/eye-of-ender.png" width="180" height="180">
