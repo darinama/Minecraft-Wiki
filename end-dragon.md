@@ -13,13 +13,18 @@ You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will ne
 
 <p align="center">
   <img src="./img/ender-dragon/ender-pearl.png" width="180" height="180">
-  <img src="./img/plus.png" width="180" height="150">
+  <img src="./img/plus.png" width="180" height="180">
   <img src="./img/ender-dragon/blaze-powder.png" width="180" height="180">
   <img src="./img/arrow.png" width="150" height="150">
   <img src="./img/ender-dragon/eye-of-ender.png" width="180" height="180">
 </p>
 
 Ender Pearls can be obtained from killing Enderman, which can be found around the overworld but also in the Nether.
+
+<p align="center">
+  <img src="./img/ender-dragon/nether-fortress.png" width="180" height="180">
+</p>
+
 Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. They shoot fireballs, therefore be ready for combat. Once killed, a Blaze will drop Blaze Rods.
 
 <p align="center">
@@ -32,8 +37,16 @@ Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether
 
 One Blaze Rod can be converted into two Blaze Powders using a crafting table. You will approximately need 8-9 Blaze Rods.
 
+<p align="center">
+  <img src="./img/ender-dragon/stronghold.png" width="180" height="180">
+</p>
+
 You will use the Eyes of Ender to locate the Stronghold, which is where the portal is, and activate the portal. The portal requires 12 Eyes of Ender to be activated, although one is already in place. During your journey to locate the portal, you will need to throw Eyes of Ender in the air, which will fall into a certain direction, and follow this direction. The Eye of Ender can be collected again, and thrown in the air again, to indicate the direction to follow. However, an Eye of Ender has a 20% chance of breaking when you use it, which is why it is recommended to craft 15-17.
 When you have arrived, the Eye of Ender will drop down on one block. You will need to dig down to reach the Stronghold, which is a structure, and find the End Portal room.
+
+<p align="center">
+  <img src="./img/ender-dragon/end-portal.png" width="180" height="180">
+</p>
 
 Once you have found the portal, you can activate it by placing the Eyes of Ender in the frame-blocks. But before entering the End, you will need to prepare.
 
