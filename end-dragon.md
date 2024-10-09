@@ -29,7 +29,8 @@ Ender Pearls can be obtained from killing Enderman, which can be found around th
   <img src="./img/ender-dragon/nether-fortress.png" width="180" height="180">
 </p>
 
-Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. They shoot fireballs, therefore be ready for combat. Once killed, a Blaze will drop Blaze Rods.
+Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. Nether fortresses are structures found in the Nether, which can be recognizable thanks to their nether bricks.
+Blazes shoot fireballs, therefore be ready for combat. Once killed, a Blaze will drop Blaze Rods.
 
 <p align="center">
   <img src="./img/ender-dragon/blaze.png" width="180" height="180">
@@ -120,8 +121,12 @@ You can see the Dragon's health at the top of your screen, therefore knowing whe
 
 When the Dragon dies, it will explode in the air and drop a large amount of experience orbs. A Dragon Egg will appear on top of the End portal center, which you can collect. It is only a collectible item but remains a trophy.
 
+<p align="center">
+  <img src="./img/ender-dragon/dragon-egg.png" width="180" height="180">
+</p>
+
 You can return to the Overworld by jumping into the End portal, and the credits of the game will roll.
 
 <p align="center">
-You have finished the game! You can now decide to explore the End, to find rare resources, or come back later, if you aren't scared...
+You have finished the game! You can now explore the End, if you aren't scared...
 </p>
