@@ -22,24 +22,31 @@ Once you have found the portal, you can activate it by placing the Eyes of Ender
 # 2) Prepare
 Before even attempting to kill the Ender Dragon, you will need to gear up. You will need to have :
 - A full diamond body armor
+
 It will absorb a great deal of the damage dealt by the dragon, and fall damage.
   
 - A diamond sword
+
 The sword will be used to directly attack the dragon, a diamond sword is strong and deals a lot of damage.
   
 - A bow and arrows
+
 The bow will be used to destroy the Ender Crystals, which help the dragon heal itself. A bow is needed since they are located on high pillars.
   
 - A bucket of water
+
 The bucket will be used to fall without taking any damage if you need it.
 
 - Blocks
+
 Blocks will be used to prevent fall damage, to reach higher areas, or to hide yourself.
 
 - A pickaxe
+
 The pickaxe will be used to mine blocks if you run out of them.
   
 - Food
+
 You will need to bring food to heal yourself, preferably golden carrots or golden apples.
 
 Once you are ready, you can head back to the End portal, and jump through it to enter the End.
@@ -66,8 +73,8 @@ You can see the Dragon's health at the top of your screen, therefore knowing whe
 
 When the Dragon dies, it will explode in the air and drop a large amount of experience orbs. A Dragon Egg will appear on top of the End portal center, which you can collect. It is only a collectible item but remains a trophy.
 
-You can return to the Overworld by jumping in the End portal, and the credits of the game will roll.
+You can return to the Overworld by jumping into the End portal, and the credits of the game will roll.
 
-
-
+<p align="center">
 You have finished the game! You can now decide to explore the End, to find rare resources, or come back later, if you aren't scared...
+</p>
