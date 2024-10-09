@@ -83,6 +83,10 @@ You will need to bring food to heal yourself, preferably golden carrots or golde
 Once you are ready, you can head back to the End portal, and jump through it to enter the End.
 
 # 3) Destroy the Ender Crystals
+<p align="center">
+  <img src="./img/ender-dragon/end.png" width="180" height="180">
+</p>
+
 Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight it with your sword will be useless if you haven't destroyed the End Crystals.
 
 Try not to look at the Enderman, or they will attack you. If they do attack you, hide under a structure no more than 2 blocks high, and the Enderman won't be able to reach you, but you will be able to attack them.
