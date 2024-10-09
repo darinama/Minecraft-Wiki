@@ -24,7 +24,7 @@ Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether
 
 <p align="center">
   <img src="./img/ender-dragon/blaze.png" width="180" height="180">
-  <img src="./img/plus.png" width="180" height="150">
+  <img src="./img/arrow.png" width="150" height="150">
   <img src="./img/ender-dragon/blaze-rod.png" width="180" height="180">
   <img src="./img/arrow.png" width="150" height="150">
   <img src="./img/ender-dragon/blaze-powder.png" width="180" height="180">
