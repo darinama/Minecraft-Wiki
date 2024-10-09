@@ -11,6 +11,14 @@ To kill the Ender Dragon, you will need to enter the End dimension, which can be
 
 You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will need an Ender Pearl and Blaze Powder. You will need to craft 15-17 Eyes of Ender.
 
+<p align="center">
+  <img src="./img/ender-dragon/ender-pearl.png" width="180" height="180">
+  <img src="./img/plus.png" width="150" height="150">
+  <img src="./img/ender-dragon/blaze-powder.png" width="180" height="180">
+  <img src="./img/arrow.png" width="150" height="150">
+  <img src="./img/ender-dragon/eye-of-ender.png" width="180" height="180">
+</p>
+
 Ender Pearls can be obtained from killing Enderman, which can be found around the overworld but also in the Nether.
 Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. They shoot fireballs, therefore be ready for combat. Once killed, a Blaze will drop Blaze Rods. One Blaze Rod can be converted into two Blaze Powders using a crafting table. You will approximately need 8-9 Blaze Rods.
 
