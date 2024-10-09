@@ -4,6 +4,9 @@ title: Ender Dragon
 ---
 {% include navbar.md %}
 
+<div style="text-align: center;">
+  <h1>The Ender Dragon</h1>
+</div>
 <p align="center">
   <img src="./img/ender-dragon/ender-dragon-face.png" width="805" height="310">
 </p>
@@ -127,6 +130,6 @@ When the Dragon dies, it will explode in the air and drop a large amount of expe
 
 You can return to the Overworld by jumping into the End portal, and the credits of the game will roll.
 
-<p align="center">
-You have finished the game! You can now explore the End, if you aren't scared...
-</p>
+<div style="text-align: center;>
+  <h1>You have finished the game! You can now explore the End, if you aren't scared...</h1>
+</div>
