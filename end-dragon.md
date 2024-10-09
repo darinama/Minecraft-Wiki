@@ -60,17 +60,17 @@ You will need to bring food to heal yourself, preferably golden carrots or golde
 Once you are ready, you can head back to the End portal, and jump through it to enter the End.
 
 # 3) Destroy the Ender Crystals
-Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight it with your sword will be useless if you haven't destroyed the Ender Crystals.
+Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight it with your sword will be useless if you haven't destroyed the End Crystals.
 
 Try not to look at the Enderman, or they will attack you. If they do attack you, hide under a structure no more than 2 blocks high, and the Enderman won't be able to reach you, but you will be able to attack them.
 
-Locate the obsidian pillars, where the Ender Crystals are located at the top. You can use your bow to shoot at them and destroy them, making them explode.
+Locate the obsidian pillars, where the End Crystals are located at the top. You can use your bow to shoot at them and destroy them, making them explode.
 
-Taller pillars will require you to climb them up. Use blocks to tower up the pillars and shoot the Ender Crystal using your bow, but be careful of the explosion.
+Taller pillars will require you to climb them up. Use blocks to tower up the pillars and shoot the End Crystal using your bow, but be careful of the explosion.
 
-Some Ender Crystals are protected by metal pillars, which you will have to manually destroy using your pickaxe, before destroying them.
+Some End Crystals are protected by metal pillars, which you will have to manually destroy using your pickaxe, before destroying them.
 
-Once all of the Ender Crystals are destroyed, you can now attack the dragon.
+Once all of the End Crystals are destroyed, you can now attack the dragon.
 
 # 4) Kill the End Dragon
 The Ender Dragon flies in the air and throws fireballs at you. When the Dragon is in the air, shoot it using your bow and avoid the fireballs.
