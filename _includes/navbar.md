@@ -4,5 +4,5 @@
   <a href="resources" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 20px;">Resources</a>
   <a href="crafting" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 20px;">Crafting</a>
   <a href="mobs" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 20px;">Mobs</a>
-  <a href="end-dragon" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 20px;">End Dragon</a>
+  <a href="end-dragon" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 20px;">Ender Dragon</a>
 </div>
