@@ -4,6 +4,10 @@ title: Ender Dragon
 ---
 {% include navbar.md %}
 
+<p align="center">
+  <img src="./img/ender-dragon/ender-dragon-face.png" width="805" height="310">
+</p>
+
 This page will guide you through defeating the Ender Dragon.
 
 # 1) Locate the End portal
@@ -84,14 +88,22 @@ Once you are ready, you can head back to the End portal, and jump through it to 
 
 # 3) Destroy the Ender Crystals
 <p align="center">
-  <img src="./img/ender-dragon/end.png" width="180" height="180">
+  <img src="./img/ender-dragon/end.png" width="500" height="263">
 </p>
 
 Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight it with your sword will be useless if you haven't destroyed the End Crystals.
 
 Try not to look at the Enderman, or they will attack you. If they do attack you, hide under a structure no more than 2 blocks high, and the Enderman won't be able to reach you, but you will be able to attack them.
 
+<p align="center">
+  <img src="./img/ender-dragon/ender-crystal.png" width="180" height="283">
+</p>
+
 Locate the obsidian pillars, where the End Crystals are located at the top. You can use your bow to shoot at them and destroy them, making them explode.
+
+<p align="center">
+  <img src="./img/ender-dragon/pillar.png" width="180" height="180">
+</p>
 
 Taller pillars will require you to climb them up. Use blocks to tower up the pillars and shoot the End Crystal using your bow, but be careful of the explosion.
 
