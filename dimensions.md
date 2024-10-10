@@ -12,15 +12,15 @@ title: Dimensions en Biomes
 
 The Overworld is the main dimension in Minecraft.
 
-It is where you will spawn and where most mobs live. It includes passive mobs such as pigs, cows, sheep, horses, chickens, and villagers. Neutral mobs such as bees, spiders, wolves, enderman, and iron golems. Hostile mobs such as zombies, creepers, and skeletons.
-However, you will discover many more...
+It is where you will spawn and where most mobs live. It includes **passive mobs** such as pigs, cows, sheep, horses, chickens, and villagers. **Neutral mobs** such as bees, spiders, wolves, enderman, and iron golems. **Hostile mobs** such as zombies, creepers, and skeletons.
+However, you will discover *many more...*
 
 The Overworld contains the most diverse biomes. The main biomes are plains, forests, mountains, deserts, and oceans.
 
 It has a day and night cycle, nighttime being the time hostile mobs appear.
 
 Many structures can be found around the Overworld, such as villages, desert temples, mineshafts, shipwrecks, ocean monuments, woodland mansions, and many more.
-
+* * *
 ## Nether
 <p align="center">
   <img src="./img/dimensions/nether.png" width="500" height="263">
@@ -34,7 +34,7 @@ The Nether contains its own biomes, such as Nether Wastes, Soul Sand Valleys, Cr
 
 There is no day and night cycle, but traveling from A to B is faster in the Nether than traveling from A to B in the Overworld.
 
-To access the Nether you will need to go through a Nether portal. You can build one from scratch or repair a broken portal in the Overworld.
+To access the Nether you will need to go through a **Nether portal**. You can build one from scratch or repair a broken portal in the Overworld.
 
 <p align="center">
   <img src="./img/dimensions/portal.png" width="180" height="300">
@@ -46,12 +46,13 @@ To build a portal you will need to:
 - Pour lava into the mold
 - Pour water over the lava to create obsidian
 - Light the portal with a flint and steel (refer to [crafting](crafting)).
-
+* * *
 ## The End
 <p align="center">
   <img src="./img/dimensions/the-end.png" width="500" height="263">
 </p>
-The End is the final dimension of Minecraft. It is a desert-ish dimension mostly made of End Stone.
+
+The End is the *final dimension* of Minecraft. It is a desert-ish dimension mostly made of End Stone.
 
 The End contains its own biomes, mostly small islands and End cities, where rare resources and items can be found.
 
