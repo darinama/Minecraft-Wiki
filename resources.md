@@ -64,7 +64,7 @@ Water is essential to farming since crops need water to grow. It also allows the
 Water is also essential to seasoned players since it prevents fall damage. Players will keep a bucket of water in their inventory to purposefully (or not) fall from high grounds and avoid damage.
 Water is also used to craft potions or make traps.
 However, unlike food, the player doesn't need to drink to maintain themselves in survival mode.
-
+* * *
 # Food
 You will need to eat to restore your hunger, which will then restore your life.
 You can eat different types of food, some are more nutritious than others.
@@ -124,7 +124,7 @@ They are usually used to restore minimal hunger.
 
 Carrots and apples can be turned into golden carrots and golden apples, to restore immediate health to the player.
 Vegetables and fruits don't restore hunger as much as meat but can be harvested in large quantities at once.
-
+* * *
 # Minerals and Ores
 ## Coal
 <p align="center">
