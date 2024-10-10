@@ -2,7 +2,9 @@
 layout: default
 title: Homepage
 ---
-
+<div class="page-wrapper">
+  <div class="side-banner"></div>
+  <div class="content">
 {% include navbar.md %}
 
 <div style="text-align: center; margin-top: 50px;">
@@ -31,3 +33,6 @@ As the game title indicates, Minecraft is about mining and crafting. The only "s
 #### Mine: To mine is to collect resources from ores using a pickaxe. For example, diamonds and coal can be mined.
 
 #### Loot: A loot is something a mob drops when killed or something found in a chest.
+</div>
+  <div class="side-banner"></div>
+</div>
