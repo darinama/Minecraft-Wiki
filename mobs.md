@@ -7,9 +7,9 @@ title: Mobs
 Mobs are living creatures who roam the world freely.
 There are three main types of mobs in Minecraft: passive mobs, neutral mobs, and hostile mobs.
 Most mobs will drop loot when killed, which can be used to craft other things.
-
+* * *
 # Passive mobs
-Passive mobs don't attack the player, even if the player attacks them.
+Passive mobs don't attack the player, *even* if the player attacks them.
 Animals will drop food, which you can cook and eat.
 
 ## Pigs
@@ -73,10 +73,10 @@ Their profession can be identified thanks to their clothing. You can assign an u
 
 The player can breed villagers by feeding them bread, and the grown adult will automatically become an unemployed villager. But each villager needs a bed and food nearby.
 
-The player can trade with villagers using emeralds, and gain useful resources such as enchantment books, enchanted tools or armor.
-
+The player can trade with villagers using emeralds, and gain useful resources such as enchantment books, enchanted tools, or armor.
+* * *
 # Neutral mobs
-Neutral mobs won't attack the player but will fight back if they are attacked.
+Neutral mobs won't attack the player but **will fight back** if they are attacked.
 
 ## Bees
 <p align="center">
@@ -129,9 +129,9 @@ Enderman drop Ender pearls, which can be used to teleport or craft Eyes of the E
 
 Piglins spawn in the Nether dimension. They will attack the player if the player isn't equipped with a gold piece of armor.
 You can barter with piglins by giving them gold ingots, for which in exchange they will randomly give you resources such as obsidian or potions.
-
+* * *
 # Hostile mobs
-Hostile mobs will attack the player even if they aren't provoked.
+Hostile mobs **will attack** the player *even* if they aren't provoked.
 Most hostile mobs spawn in dark areas such as caves, or during nighttime. Most of them die when the sun rises.
 
 ## Zombies
