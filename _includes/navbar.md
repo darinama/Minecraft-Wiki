@@ -1,6 +1,6 @@
 <div style="width: 100%; text-align: center; background-color: #1e1e1e; border: 5px solid #9ccf4c; padding: 10px; box-sizing: border-box;">
   <a href="index" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Homepage</a>
-  <a href="dimensions-biomes" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Dimensions</a>
+  <a href="dimensions" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Dimensions</a>
   <a href="resources" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Resources</a>
   <a href="crafting" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Crafting</a>
   <a href="mobs" style="color: #9ccf4c; text-decoration: none; margin: 0 15px; font-size: 25px;">Mobs</a>
