@@ -10,7 +10,7 @@ This page will guide you through the basics of crafting, and basics things to cr
 To craft, you will need a crafting table. It can be crafted from your inventory directly, using 4 planks of any wood type. To obtain wood planks, you must collect wood, which can be done barehand. You can turn a wood log into planks directly using your inventory. One wood log will give you 4 planks.
 
 Once you have a crafting table, you can place it down and use it to craft upgraded tools and others. You will need a crafting table to craft all of the following items.
-
+* * *
 # Tools
 To survive, you must craft tools to gather resources and defend yourself. Tools can be crafted with sticks and one other resource such as wood, stone, iron, gold, or diamonds. To learn how to gather these resources, go to [resources](resources).
 
@@ -64,13 +64,11 @@ You will need arrows to shoot with a bow. They can be collected from skeletons o
   <img src="./img/crafting/arrow.png" width="380" height="180">
 </p>
 You need 1 stick, 1 feather, and 1 flint, which can be collected from gravel.
-
+* * *
 # Armor
 To protect yourself from damage you will need armor. Armor can be made of leather, iron, gold, or diamond. Armor is made of 4 pieces: a helmet, a chestplate, leggings, and boots. Each item will protect one part of your body.
 
 The guide below will teach you how to craft iron armor. If you want to craft leather or diamond armor, for example, you only to replace iron with leather or diamond.
-
-Tools and armor can be enchanted. See below to enchantment table.
 
 ## Helmet
 <p align="center">
@@ -96,6 +94,9 @@ You need 7 iron ingots.
 </p>
 You need 4 iron ingots.
 
+Tools and armor can be enchanted, see below to `enchanting table`.
+
+* * *
 
 # Others
 
