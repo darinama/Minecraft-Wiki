@@ -29,11 +29,19 @@ There is no day and night cycle, but traveling from A to B is faster in the Neth
 To access the Nether you will need to go through a Nether portal. You can build one from scratch or repair a broken portal in the Overworld.
 
 To build a portal you will need to:
-- Build a frame 12-blocks high, with a 6-block width.
+- Build a frame 7-blocks high, with a 6-block width
+- Build a smaller frame inside, 3-blocks high, with 2-blocks width
 - Pour lava into the mold
 - Pour water over the lava to create obsidian
-- Light the portal with a flint and steel (refer to (Crafting))
-
+- Light the portal with a flint and steel (refer to [crafting](crafting).
 
 ## The End
+The End is the final dimension of Minecraft. It is a desert-ish dimension mostly made of End Stone.
 
+The End contains its own biomes, mostly small islands and End cities, where rare resources and items can be found.
+
+The End is home to many enderman and shulkers, and the Ender Dragon, which is the final boss of the game.
+
+There is no day and night cycle.
+
+To access the End you will need to go through an End portal. To learn how to access the End, refer to [Ender Dragon](end-dragon).
