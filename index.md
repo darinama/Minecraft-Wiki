@@ -18,7 +18,7 @@ The Creative mode allows you to access all of the resources infinitely from your
 The Survival mode allows you to play as an individual, where hostile creatures will try to kill you while you try to survive by gathering resources before beating the final boss of the videogame. In this mode, you have a certain number of hearts representing your health, which can decrease if you take damage or are poisoned. You must satisfy your hunger to regain health.
 
 As the game title indicates, Minecraft is about mining and crafting. The only "story goal" is to kill the Ender Dragon, if you dare to...
-
+* * *
 ### Basic vocabulary
 
 Mob: A mob is a creature. It can be an animal (cow, pig) or a monster (zombie, creeper).
