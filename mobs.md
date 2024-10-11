@@ -177,7 +177,7 @@ Other common hostile mobs are drowned, which are zombies who spawn underwater, w
 The Ender Dragon spawns in the End dimension.
 It isn't a common hostile mob since there is only one, and represents the "final boss". It is a very powerful flying creature that attacks the player with fireballs.
 The Ender Dragon drops a large amount of XP, and a dragon egg, which is a decoration item.
-If you want to defeat the Ender Dragon, please refer to [Ender Dragon](end-dragon)).
+If you want to defeat the Ender Dragon, please refer to [Ender Dragon](end-dragon).
 
 <div style="text-align: center; margin-top: 50px;">
   <h1>This is all you need to know about mobs to start playing!</h1>
