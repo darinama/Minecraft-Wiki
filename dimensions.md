@@ -3,9 +3,11 @@ layout: default
 title: Dimensions en Biomes
 ---
 {% include navbar.md %}
+Minecraft is the home of three distinct dimensions: the **Overworld**, the **Nether**, and the **End**.
 
-# Dimensions
-## Overworld
+The Overwolrd is the main dimension while others are more dangerous and can only be accessed via portals.
+
+# The Overworld
 <p align="center">
   <img src="./img/dimensions/overworld.png" width="500" height="263">
 </p>
@@ -23,7 +25,7 @@ Many structures can be found around the Overworld, such as villages, desert temp
 
 * * *
 
-## Nether
+# The Nether
 <p align="center">
   <img src="./img/dimensions/nether.png" width="500" height="263">
 </p>
@@ -51,7 +53,7 @@ To build a portal you will need to:
 
 * * *
 
-## The End
+# The End
 <p align="center">
   <img src="./img/dimensions/the-end.png" width="500" height="263">
 </p>
@@ -66,4 +68,6 @@ There is no day and night cycle.
 
 To access the End you will need to go through an End portal. To learn how to access the End, and beat the Ender Dragon, please refer to [Ender Dragon](end-dragon).
 
-That is everything you need to know about dimensions and biomes to start playing!
+<div style="text-align: center; margin-top: 50px;">
+  <h1>This is everything you need to know about dimensions and biomes to start playing!</h1>
+</div>
