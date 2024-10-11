@@ -4,6 +4,10 @@ title: Mobs
 ---
 {% include navbar.md %}
 
+<div style="text-align: center; margin-top: 50px;">
+  <h1>Mobs</h1>
+</div>
+
 Mobs are living creatures who roam the world freely.
 There are three main types of mobs in Minecraft: passive mobs, neutral mobs, and hostile mobs.
 Most mobs will drop loot when killed, which can be used to craft other things.
