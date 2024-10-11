@@ -4,7 +4,7 @@ title: Crafting
 ---
 {% include navbar.md %}
 
-This page will guide you through the basics of crafting, and basics things to craft that will help you survive.
+This page will guide you through the basics of crafting, which is essential to help you survive.
 
 # Crafting table
 To craft, you will need a crafting table. It can be crafted from your inventory directly, using 4 planks of any wood type. To obtain wood planks, you must collect wood, which can be done barehand. You can turn a wood log into planks directly using your inventory. One wood log will give you 4 planks, enough to craft a crafting table.
