@@ -14,9 +14,9 @@ title: Ender Dragon
 This page will guide you through defeating the Ender Dragon.
 
 # 1) Locate the End portal
-To kill the Ender Dragon, you will need to enter the End dimension, which can be done via the End portal.
+To kill the Ender Dragon, you will need to enter the End dimension, which can be done using the End portal.
 
-You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will need an Ender Pearl and Blaze Powder. You will need to craft 15-17 Eyes of Ender.
+You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will need an Ender Pearl and Blaze Powder. You will need to craft *15-17* Eyes of Ender.
 
 <p align="center">
   <img src="./img/ender-dragon/ender-pearl.png" width="180" height="180">
