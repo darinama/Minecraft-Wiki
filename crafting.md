@@ -7,7 +7,7 @@ title: Crafting
 This page will guide you through the basics of crafting, and basics things to craft that will help you survive.
 
 # Crafting table
-To craft, you will need a crafting table. It can be crafted from your inventory directly, using 4 planks of any wood type. To obtain wood planks, you must collect wood, which can be done barehand. You can turn a wood log into planks directly using your inventory. One wood log will give you 4 planks.
+To craft, you will need a crafting table. It can be crafted from your inventory directly, using 4 planks of any wood type. To obtain wood planks, you must collect wood, which can be done barehand. You can turn a wood log into planks directly using your inventory. One wood log will give you 4 planks, enough to craft a crafting table.
 
 Once you have a crafting table, you can place it down and use it to craft upgraded tools and others. You will need a crafting table to craft all of the following items.
 * * *
@@ -16,40 +16,51 @@ To survive, you must craft tools to gather resources and defend yourself. Tools 
 
 Your first set of tools will be made of wood since you will need a pickaxe to gather upgraded resources.
 
+Tools durability  | 
+------------- | 
+Wood  | 
+Stone | 
+Gold | 
+Iron | 
+Diamond  | 
+Netherite | 
+
+The crafting of Netherite tools and armor will not be talked about in this wiki, since it is more complex.
+
 ## Axe
 An axe helps you gather wood and things made of wood faster.
 <p align="center">
   <img src="./img/crafting/axe.png" width="380" height="180">
 </p>
-You need 2 sticks and 3 planks for example.
+You need 2 sticks, and 3 planks for example.
 
 ## Pickaxe
 A pickaxe helps you gather coal, stone, iron, gold, diamonds, and other minerals and ores. Be careful, gold, diamonds, emeralds, and redstone have to be mined using an iron pickaxe or better.
 <p align="center">
   <img src="./img/crafting/pickaxe.png" width="380" height="180">
 </p>
-You need 2 sticks and 3 cobblestones for example.
+You need 2 sticks, and 3 cobblestones for example.
 
 ## Shovel
 A shovel helps you gather dirt, sand, gravel, or clay.
 <p align="center">
   <img src="./img/crafting/shovel.png" width="380" height="180">
 </p>
-You need 2 sticks and 1 iron for example.
+You need 2 sticks, and 1 iron ingots for example.
 
 ## Hoe
 A hoe helps you tilt dirt, to plant crops. It is essential to farming.
 <p align="center">
   <img src="./img/crafting/hoe.png" width="380" height="180">
 </p>
-You need 2 sticks and 2 iron for example.
+You need 2 sticks, and 2 iron ingots for example.
 
 ## Sword
 A sword will help you defend yourself and kill mobs from up close.
 <p align="center">
   <img src="./img/crafting/sword.png" width="380" height="180">
 </p>
-You will need 1 stick and 1 diamond for example. If you use a diamond sword, it will deal more damage than an iron or stone sword.
+You will need 1 stick, and 2 iron ingots for example. If you use a diamond sword, it will deal more damage than an iron or stone sword.
 
 ## Bow
 A bow will help you defend yourself and kill mobs from a distance.
@@ -59,16 +70,18 @@ A bow will help you defend yourself and kill mobs from a distance.
 You will need 3 sticks and 3 strings, which can be obtained from spiders.
 
 ## Arrows
-You will need arrows to shoot with a bow. They can be collected from skeletons or crafted.
+You will need arrows to shoot with a bow. They can be collected from skeletons, or crafted.
 <p align="center">
   <img src="./img/crafting/arrow.png" width="380" height="180">
 </p>
 You need 1 stick, 1 feather, and 1 flint, which can be collected from gravel.
-* * *
-# Armor
-To protect yourself from damage you will need armor. Armor can be made of leather, iron, gold, or diamond. Armor is made of 4 pieces: a helmet, a chestplate, leggings, and boots. Each item will protect one part of your body.
 
-The guide below will teach you how to craft iron armor. If you want to craft leather or diamond armor, for example, you only to replace iron with leather or diamond.
+* * *
+
+# Armor
+To protect yourself from taking damage you will need armor. Armor can be made of leather, iron, gold, or diamond. Armor is made of 4 pieces: a helmet, a chestplate, leggings, and boots. Each item will protect one part of your body.
+
+The guide below will teach you how to craft iron armor. If you want to craft leather or diamond armor, for example, you only need to replace iron with leather or diamond.
 
 ## Helmet
 <p align="center">
@@ -105,7 +118,7 @@ A furnace will help you cook meat and melt raw materials such as raw iron or raw
 <p align="center">
   <img src="./img/crafting/furnace.png" width="380" height="180">
 </p>
-You need 8 cobblestones, placed in these slots of the crafting table.
+You need 8 cobblestones.
 
 ## Torches
 Torches will help you light up dark areas or see your surroundings during nighttime, once placed down. Torches are essential when mining, to not be surprised by hostile mobs.
@@ -115,7 +128,7 @@ Torches will help you light up dark areas or see your surroundings during nightt
 You need 1 stick and 1 coal or charcoal.
 
 ## Bucket
-A bucket will help you contain liquids such as water, lava, or milk. It also allows you to grab mobs from the water such as tropical fishes or ocelots.
+A bucket will help you contain liquids such as water, lava, or milk. It also allows you to grab mobs from the water such as tropical fishes.
 <p align="center">
   <img src="./img/crafting/bucket.png" width="380" height="180">
 </p>
@@ -126,7 +139,7 @@ A boat will help you travel on water, making you go much faster than swimming. I
 <p align="center">
   <img src="./img/crafting/boat.png" width="380" height="180">
 </p>
-You need 5 planks, placed in these slots of the crafting table.
+You need 5 planks.
 
 ## Flint and Steel
 Flint and steel help you light things on fire. It is essential to light up a Nether portal.
@@ -142,7 +155,7 @@ Books are used to craft bookshelves, to then craft an enchanting table.
 </p>
 You need 3 papers and 1 leather.
 
-## Bookshelves
+## Bookshelf
 Bookshelves are used to craft enchanting tables. Bookshelves can also be placed around an enchanting table to make the enchantments better.
 <p align="center">
   <img src="./img/crafting/bookshelf.png" width="380" height="180">
@@ -150,13 +163,13 @@ Bookshelves are used to craft enchanting tables. Bookshelves can also be placed 
 You need 3 books and 6 planks.
 
 ## Enchanting table
-An enchanting table is another crafting station that allows you to enchant tools and armor. An enchanted item provides additional bonuses such as higher damage, protection or efficiency for example.
+An enchanting table is another crafting station that allows you to enchant tools and armor. An enchanted item provides additional bonuses such as higher damage, protection, or efficiency for example.
 <p align="center">
   <img src="./img/crafting/enchanting-table.png" width="380" height="180">
 </p>
 You need 4 obsidians, 2 diamonds, and 1 book.
 
-To enchant an item, you can place the item in the slot, place lapis lazuli in the other slot, and choose an enchantment on the right.
+To enchant an item in the enchanting table menu, you can place the item in the slot, place lapis lazuli in the other slot, and choose an enchantment on the right.
 
 ## Anvil
 An anvil is another crafting station that allows you to repair enchanted tools, rename items, or combine enchantments. 
@@ -164,3 +177,5 @@ An anvil is another crafting station that allows you to repair enchanted tools, 
   <img src="./img/crafting/anvil.png" width="380" height="180">
 </p>
 You need 3 iron blocks and 4 iron ingots. To craft an iron block, you need 9 iron ingots.
+
+# This is all you need to know about crafting to start playing!
