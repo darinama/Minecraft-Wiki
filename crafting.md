@@ -18,7 +18,9 @@ To craft, you will need a crafting table. It can be crafted from your inventory 
 </p>
 
 Once you have a crafting table, you can place it down and use it to craft upgraded tools and others. You will need a crafting table to craft all of the following items.
+
 * * *
+
 # Tools
 To survive, you must craft tools to gather resources and defend yourself. Tools can be crafted with sticks and one other resource such as wood, stone, iron, gold, or diamonds. To learn how to gather these resources, go to [resources](resources).
 
@@ -109,6 +111,11 @@ Tools and armor can be enchanted, see below to `enchanting table`.
 * * *
 
 # Others
+
+## Bed
+A bed will help you sleep through the night and avoid most of the hostile mobs. It is also used to reset your spawn point if you die.
+
+You need 3 planks and 3 wool.
 
 ## Furnace
 A furnace will help you cook meat and melt raw materials such as raw iron or raw gold. To activate it, you will need fuel such as coal, charcoal, or planks.
