@@ -5,6 +5,10 @@ title: Homepage
 
 {% include navbar.md %}
 
+<div style="text-align: center; margin-top: 50px;">
+  <h1>Resources</h1>
+</div>
+
 You will need to gather resources to survive and evolve in the game. Resources can be classified into three categories: natural resources, food, minerals and ores.
 
 # Natural resources
@@ -13,10 +17,10 @@ You will need to gather resources to survive and evolve in the game. Resources c
   <img src="./img/resources/dirt.png" width="180" height="180">
 </p>
 
-Dirt is the most basic block in Minecraft, and it covers most biomes. As a new player, it is important to gather some dirt because it is always useful.
+Dirt is the most basic block in Minecraft, and it covers most biomes.
 Dirt is often used at the beginning of a save to create a temporary base to survive through the first few couple of nights.
-Dirt cannot be used to craft tools, but it is essential to farming. Crops can only grow on tilled dirt or glass blocks.
-Moreover, having a stack of dirt blocks in your inventory might always be helpful, whether it is to build a temporary base, block yourself from dangerous mobs, or easily climb levels.
+Dirt cannot be used to craft tools, but it is essential to farming. Crops can only grow on tilled dirt.
+Moreover, having a stack of dirt blocks in your inventory might always be helpful, whether it is to build a temporary base, block yourself from dangerous mobs, or easily reach higher grounds.
   
 ## Wood
 <p align="center">
@@ -40,7 +44,7 @@ Wood is obtained by chopping down a tree, which can be found almost everywhere. 
   <img src="./img/resources/birch-planks.png" width="180" height="180">
 </p>
 
-Wood is used to craft planks, a very basic item. Planks are used to craft a large number of things, including sticks which are used to craft all of the essential tools such as pickaxes, axes, hoes, swords, and shovels.
+Wood is used to craft planks, a very basic item. Planks are used to craft a large number of things, including sticks which are used to craft all of the essential tools such as pickaxes, axes, hoes, swords, and shovels (please refer to [Crafting](crafting)).
 Wood can be burned in an oven to create charcoal.
   
 ## Stone
@@ -59,12 +63,14 @@ Stone is essential to building and can later be used to build advanced crafting 
   <img src="./img/resources/water.png" width="180" height="180">
 </p>
 
-Water can be found in rivers, oceans, lakes, underground, or small ponds. It can be collected using a bucket and used for a variety of things.
+Water can be found in rivers, oceans, lakes, underground, or in small ponds. It can be collected using a bucket and used for a variety of things.
 Water is essential to farming since crops need water to grow. It also allows the player to fish and therefore collect food but different items as well.
 Water is also essential to seasoned players since it prevents fall damage. Players will keep a bucket of water in their inventory to purposefully (or not) fall from high grounds and avoid damage.
 Water is also used to craft potions or make traps.
 However, unlike food, the player doesn't need to drink to maintain themselves in survival mode.
+
 * * *
+
 # Food
 You will need to eat to restore your hunger, which will then restore your life.
 You can eat different types of food, some are more nutritious than others.
@@ -124,7 +130,9 @@ They are usually used to restore minimal hunger.
 
 Carrots and apples can be turned into golden carrots and golden apples, to restore immediate health to the player.
 Vegetables and fruits don't restore hunger as much as meat but can be harvested in large quantities at once.
+
 * * *
+
 # Minerals and Ores
 ## Coal
 <p align="center">
@@ -133,7 +141,7 @@ Vegetables and fruits don't restore hunger as much as meat but can be harvested 
   <img src="./img/resources/coal.png" width="180" height="180">
 </p>
 
-Coal can easily be found all around the world, usually underground, in mountains, or in caves. It can be mined with a wooden pickaxe or better.
+Coal can easily be found all around the world, usually underground, in mountains, or caves. It can be mined with a wooden pickaxe or better.
 It is essential to be used as fuel for furnaces or to craft torches, to light up dark areas. 
 
 ## Iron
@@ -146,10 +154,10 @@ It is essential to be used as fuel for furnaces or to craft torches, to light up
 </p>
 
 Iron can be found all around the world, usually underground, in mountains, or caves. It can be mined from an iron ore with a stone pickaxe or better.
-Raw iron will be obtained from an iron ore after mining and can be turned into iron ingots if melted in a furnace.
+Raw iron will be obtained from an iron ore after mining and can be turned into iron ingots when melted in a furnace.
 Iron is used to craft various items, such as iron tools, armor, buckets, anvils, or even shields.
 Iron tools provide greater effectiveness than stone tools and iron armor provides great protection. 
-Iron can also be used to craft rails and minecarts, to move mods or travel easier.
+Iron can also be used to craft rails and minecarts, to move mobs or travel easier.
 
 ## Gold
 
@@ -162,7 +170,7 @@ Iron can also be used to craft rails and minecarts, to move mods or travel easie
 </p>
 
 Gold can be found all around the world, usually underground, or in caves. It can also be found in the Nether dimension. It can be mined from a gold ore with an iron pickaxe or better.
-Raw gold will be obtained from a gold ore after mining and can be turned into gold ingots if melted in a furnace.
+Raw gold will be obtained from a gold ore after mining and can be turned into gold ingots when melted in a furnace.
 Gold is rarer than iron, but less useful since gold tools and armor have the lowest durability. However, gold ingots are used to trade with piglins in the Nether, to obtain crucial equipment useful in the Nether. Gold ingots can also be used to make golden apples and golden carrots.
 It can be used in advanced crafting, which makes it almost useless to beginners. 
 
@@ -202,3 +210,7 @@ Lapis can be used in enchantment tables to enchant items and make them more dura
 Copper and redstone are other ores that you can encounter.
 Redstone is used to create complex mechanisms such as mob farms and traps.
 Copper is a recent addition to the game, and can mostly be used to craft decorative objects.
+
+<div style="text-align: center; margin-top: 50px;">
+  <h1>This is all you need to know about resources to start playing!</h1>
+</div>
