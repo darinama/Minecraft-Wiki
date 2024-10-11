@@ -9,9 +9,11 @@ title: Mobs
 </div>
 
 Mobs are living creatures who roam the world freely.
-There are three main types of mobs in Minecraft: passive mobs, neutral mobs, and hostile mobs.
+There are three main types of mobs in Minecraft: **passive mobs**, **neutral mobs**, and **hostile mobs**.
 Most mobs will drop loot when killed, which can be used to craft other things.
+
 * * *
+
 # Passive mobs
 Passive mobs don't attack the player, *even* if the player attacks them.
 Animals will drop food, which you can cook and eat.
@@ -173,7 +175,10 @@ Other common hostile mobs are drowned, which are zombies who spawn underwater, w
 </p>
 
 The Ender Dragon spawns in the End dimension.
-It isn't a common hostile mob since there is only one, and represents the "final boss".
-It is a very powerful flying creature that attacks the player with fireballs.
+It isn't a common hostile mob since there is only one, and represents the "final boss". It is a very powerful flying creature that attacks the player with fireballs.
 The Ender Dragon drops a large amount of XP, and a dragon egg, which is a decoration item.
-If you want to defeat the Ender Dragon, there is a guide at ...
+If you want to defeat the Ender Dragon, please refer to [Ender Dragon](end-dragon)).
+
+<div style="text-align: center; margin-top: 50px;">
+  <h1>This is all you need to know about mobs to start playing!</h1>
+</div>
