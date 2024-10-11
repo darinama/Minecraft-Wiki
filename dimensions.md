@@ -3,6 +3,11 @@ layout: default
 title: Dimensions en Biomes
 ---
 {% include navbar.md %}
+
+<div style="text-align: center; margin-top: 50px;">
+  <h1>Dimensions</h1>
+</div>
+
 Minecraft is the home of three distinct dimensions: the **Overworld**, the **Nether**, and the **End**.
 
 The Overwolrd is the main dimension while others are more dangerous and can only be accessed via portals.
