@@ -4,6 +4,10 @@ title: Crafting
 ---
 {% include navbar.md %}
 
+<div style="text-align: center; margin-top: 50px;">
+  <h1>Crafting</h1>
+</div>
+
 This page will guide you through the basics of crafting, which is essential to help you survive.
 
 # Crafting table
