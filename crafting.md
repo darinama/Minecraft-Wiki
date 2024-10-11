@@ -9,6 +9,10 @@ This page will guide you through the basics of crafting, and basics things to cr
 # Crafting table
 To craft, you will need a crafting table. It can be crafted from your inventory directly, using 4 planks of any wood type. To obtain wood planks, you must collect wood, which can be done barehand. You can turn a wood log into planks directly using your inventory. One wood log will give you 4 planks, enough to craft a crafting table.
 
+<p align="center">
+  <img src="./img/crafting/crafting-table.png" width="300" height="180">
+</p>
+
 Once you have a crafting table, you can place it down and use it to craft upgraded tools and others. You will need a crafting table to craft all of the following items.
 * * *
 # Tools
@@ -178,4 +182,6 @@ An anvil is another crafting station that allows you to repair enchanted tools, 
 </p>
 You need 3 iron blocks and 4 iron ingots. To craft an iron block, you need 9 iron ingots.
 
-# This is all you need to know about crafting to start playing!
+<div style="text-align: center; margin-top: 50px;">
+  <h1>This is all you need to know about crafting to start playing!</h1>
+</div>
