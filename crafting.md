@@ -4,7 +4,7 @@ title: Crafting
 ---
 {% include navbar.md %}
 
-<div style="text-align: center; margin-top: 50px;">
+<div style="text-align: center; margin-top: 70px;">
   <h1>Crafting</h1>
 </div>
 
@@ -23,17 +23,6 @@ Once you have a crafting table, you can place it down and use it to craft upgrad
 To survive, you must craft tools to gather resources and defend yourself. Tools can be crafted with sticks and one other resource such as wood, stone, iron, gold, or diamonds. To learn how to gather these resources, go to [resources](resources).
 
 Your first set of tools will be made of wood since you will need a pickaxe to gather upgraded resources.
-
-Tools durability  | 
-------------- | 
-Wood  | 
-Stone | 
-Gold | 
-Iron | 
-Diamond  | 
-Netherite | 
-
-The crafting of Netherite tools and armor will not be talked about in this wiki, since it is more complex.
 
 ## Axe
 An axe helps you gather wood and things made of wood faster.
