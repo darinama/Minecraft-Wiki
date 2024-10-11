@@ -93,6 +93,14 @@ The pickaxe will be used to mine blocks if you run out of them.
 
 You will need to bring food to heal yourself, preferably golden carrots or golden apples.
 
+Essentials  | Useful
+------------- | -------------
+Sword  | Bucket of water
+Armor  | Ender Pearls
+Food   | 
+Bow and arrow  |
+Blocks   | 
+
 Once you are ready, you can head back to the End portal, and jump through it to enter the End.
 
 * * *
