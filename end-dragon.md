@@ -16,7 +16,7 @@ This page will guide you through defeating the Ender Dragon.
 # 1) Locate the End portal
 To kill the Ender Dragon, you will need to enter the End dimension, which can be done using the End portal.
 
-You will need Eyes of Ender to locate it. To craft one Eye of Ender, you will need an Ender Pearl and Blaze Powder. You will need to craft *15-17* Eyes of Ender.
+You will need Eyes of Ender to locate it since there is one in every Overworld. To craft 1 Eye of Ender, you will need an Ender Pearl and Blaze Powder. You will need to craft *15-17* Eyes of Ender.
 
 <p align="center">
   <img src="./img/ender-dragon/ender-pearl.png" width="180" height="180">
@@ -32,7 +32,7 @@ Ender Pearls can be obtained from killing Enderman, which can be found around th
   <img src="./img/ender-dragon/nether-fortress.png" width="180" height="180">
 </p>
 
-Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. Nether fortresses are structures found in the Nether, which can be recognizable thanks to their nether bricks.
+Blaze Powder can be obtained from Blazes, mobs who live in the Nether, in Nether fortresses. Nether fortresses are structures found in the Nether, which can be recognizable thanks to their Nether bricks.
 Blazes shoot fireballs, therefore be ready for combat. Once killed, a Blaze will drop Blaze Rods.
 
 <p align="center">
@@ -43,36 +43,41 @@ Blazes shoot fireballs, therefore be ready for combat. Once killed, a Blaze will
   <img src="./img/ender-dragon/blaze-powder.png" width="180" height="180">
 </p>
 
-One Blaze Rod can be converted into two Blaze Powders using a crafting table. You will approximately need 8-9 Blaze Rods.
+1 Blaze Rod can be converted into 2 Blaze Powders using a crafting table. You will approximately need 8-9 Blaze Rods.
 
 <p align="center">
   <img src="./img/ender-dragon/stronghold.png" width="400" height="400">
 </p>
 
-You will use the Eyes of Ender to locate the Stronghold, which is where the portal is, and activate the portal. The portal requires 12 Eyes of Ender to be activated, although one is already in place. During your journey to locate the portal, you will need to throw Eyes of Ender in the air, which will fall into a certain direction, and follow this direction. The Eye of Ender can be collected again, and thrown in the air again, to indicate the direction to follow. However, an Eye of Ender has a 20% chance of breaking when you use it, which is why it is recommended to craft 15-17.
+You will use the Eyes of Ender to locate the Stronghold, which is where the portal is, and activate the portal. The portal requires 12 Eyes of Ender to be activated, although one is already in place. During your journey to locate the portal, you will need to throw Eyes of Ender in the air, which will fall into a certain direction, and follow this direction. An Eye of Ender can be collected again, and thrown in the air again, to indicate the direction to follow. However, an Eye of Ender has a 20% chance of breaking when you use it, which is why it is recommended to craft 15-17.
+
 When you have arrived, the Eye of Ender will drop down on one block. You will need to dig down to reach the Stronghold, which is a structure, and find the End Portal room.
 
 <p align="center">
   <img src="./img/ender-dragon/end-portal.png" width="180" height="180">
 </p>
 
-Once you have found the portal, you can activate it by placing the Eyes of Ender in the frame-blocks. But before entering the End, you will need to prepare.
+Once you have found the portal, you can activate it by placing the Eyes of Ender in the frame-blocks.
+
+But before entering the End, you will need to prepare.
+
+* * *
 
 # 2) Prepare
 Before even attempting to kill the Ender Dragon, you will need to gear up. You will need to have :
-- A full diamond body armor
+- A full diamond body armor (refer to [Crafting](crafting))
 
-It will absorb a great deal of the damage dealt by the dragon, and fall damage.
+It will absorb a great deal of the damage dealt by the dragon.
   
-- A diamond sword
+- A diamond sword (refer to [Crafting](crafting))
 
 The sword will be used to directly attack the dragon, a diamond sword is strong and deals a lot of damage.
   
-- A bow and arrows
+- A bow and arrows (refer to [Crafting](crafting))
 
-The bow will be used to destroy the Ender Crystals, which help the dragon heal itself. A bow is needed since they are located on high pillars.
+The bow will be used to destroy the Ender Crystals, which help the dragon heal itself since they are located on high pillars. A bow will also allow you to attack the dragon from a distance.
   
-- A bucket of water
+- A bucket of water (refer to [Crafting](crafting))
 
 The bucket will be used to fall without taking any damage if you need it.
 
@@ -80,22 +85,24 @@ The bucket will be used to fall without taking any damage if you need it.
 
 Blocks will be used to prevent fall damage, to reach higher areas, or to hide yourself.
 
-- A pickaxe
+- A pickaxe (refer to [Crafting](crafting))
 
 The pickaxe will be used to mine blocks if you run out of them.
   
-- Food
+- Food (refer to [Resources](resources))
 
 You will need to bring food to heal yourself, preferably golden carrots or golden apples.
 
 Once you are ready, you can head back to the End portal, and jump through it to enter the End.
+
+* * *
 
 # 3) Destroy the Ender Crystals
 <p align="center">
   <img src="./img/ender-dragon/end.png" width="500" height="263">
 </p>
 
-Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight it with your sword will be useless if you haven't destroyed the End Crystals.
+Once you arrive in the End, you will be surrounded by Enderman and the Dragon will immediately attack you. Trying to shoot arrows or fight with your sword will be useless if you haven't destroyed the End Crystals.
 
 Try not to look at the Enderman, or they will attack you. If they do attack you, hide under a structure no more than 2 blocks high, and the Enderman won't be able to reach you, but you will be able to attack them.
 
@@ -115,7 +122,9 @@ Some End Crystals are protected by metal pillars, which you will have to manuall
 
 Once all of the End Crystals are destroyed, you can now attack the dragon.
 
-# 4) Kill the End Dragon
+* * *
+
+# 4) Kill the Ender Dragon
 The Ender Dragon flies in the air and throws fireballs at you. When the Dragon is in the air, shoot it using your bow and avoid the fireballs.
 
 The Ender Dragon will occasionally come down in the center, in the End portal center, and is now vulnerable to melee attacks. This is the time to attack it with your sword. Be careful when the Dragon flies away because it will knock you back.
