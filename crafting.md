@@ -4,7 +4,7 @@ title: Crafting
 ---
 {% include navbar.md %}
 
-<div style="text-align: center; margin-top: 70px;">
+<div style="text-align: center; margin-top: 100px;">
   <h1>Crafting</h1>
 </div>
 
