@@ -115,6 +115,10 @@ Tools and armor can be enchanted, see below to `enchanting table`.
 ## Bed
 A bed will help you sleep through the night and avoid most of the hostile mobs. It is also used to reset your spawn point if you die.
 
+<p align="center">
+  <img src="./img/crafting/bed.png" width="380" height="180">
+</p>
+
 You need 3 planks and 3 wool.
 
 ## Furnace
