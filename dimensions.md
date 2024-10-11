@@ -20,17 +20,19 @@ The Overworld contains the most diverse biomes. The main biomes are plains, fore
 It has a day and night cycle, nighttime being the time hostile mobs appear.
 
 Many structures can be found around the Overworld, such as villages, desert temples, mineshafts, shipwrecks, ocean monuments, woodland mansions, and many more.
+
 * * *
+
 ## Nether
 <p align="center">
   <img src="./img/dimensions/nether.png" width="500" height="263">
 </p>
 
-The Nether is a dimension that resembles hell. It has a dark scary atmosphere mostly made of Netherack.
+The Nether is a dimension that resembles hell. It has a dark scary atmosphere and is mostly made of Netherack.
 
 The Nether is home to unique mobs such as piglins, ghasts, blazes, hoglins, magma cubes, and more. Enderman can also be found in the Nether.
 
-The Nether contains its own biomes, such as Nether Wastes, Soul Sand Valleys, Crimson Forests, and more. You can find unique resources such as quartz or ancient debris, which are essential to craft Netherite.
+The Nether contains its own biomes, such as Nether Wastes, Soul Sand Valleys, Crimson Forests, and more. You can find unique resources such as quartz or ancient debris.
 
 There is no day and night cycle, but traveling from A to B is faster in the Nether than traveling from A to B in the Overworld.
 
@@ -42,11 +44,13 @@ To access the Nether you will need to go through a **Nether portal**. You can bu
 
 To build a portal you will need to:
 - Build a frame 7-blocks high, with a 6-block width
-- Build a smaller frame inside, 3-blocks high, with 2-blocks width
+- Build a smaller frame inside, 3-blocks high, with a 2-block width
 - Pour lava into the mold
 - Pour water over the lava to create obsidian
 - Light the portal with a flint and steel (refer to [crafting](crafting)).
+
 * * *
+
 ## The End
 <p align="center">
   <img src="./img/dimensions/the-end.png" width="500" height="263">
@@ -60,4 +64,6 @@ The End is home to many enderman and shulkers, and the Ender Dragon, which is th
 
 There is no day and night cycle.
 
-To access the End you will need to go through an End portal. To learn how to access the End, refer to [Ender Dragon](end-dragon).
+To access the End you will need to go through an End portal. To learn how to access the End, and beat the Ender Dragon, please refer to [Ender Dragon](end-dragon).
+
+That is everything you need to know about dimensions and biomes to start playing!
