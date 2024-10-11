@@ -17,12 +17,21 @@ This website is a beginner's guide to the video game *Minecraft*. From crafting 
 Minecraft is a sandbox videogame released in 2011 and developed by Mojang. It is a 3D videogame defined by its "block-ish" appearance since everything is a block or square-ish.
 
 The two main modes of the game are Survival and Creative.
+
+## Creative mode
 The **Creative** mode allows you to access all of the resources infinitely from your inventory do anything you want. It is usually used by players to build impressive structures.
 
+<p align="center">
+  <img src="./img/castle.png" width="700" height="368">
+</p>
 
 Here is an example of a castle, built by *Sabina*
 
-
+* * *
+## Survival mode
+<p align="center">
+  <img src="./img/survival.png" width="700" height="368">
+</p>
 
 The **Survival** mode allows you to play as an individual, where hostile creatures will try to kill you while you try to survive by gathering resources before beating the final boss of the videogame. In this mode, you have a certain number of hearts representing your health, which can decrease if you take damage or are poisoned. You must satisfy your hunger to regain health.
 
